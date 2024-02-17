@@ -1,1 +1,0 @@
-ScriptName THICC_Icons_MCM Extends MCM_ConfigBase

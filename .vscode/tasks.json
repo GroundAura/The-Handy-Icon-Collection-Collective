@@ -2,24 +2,6 @@
 	"version": "2.0.0",
 	"tasks": [
         {
-            "label": "Compile Papyrus Scripts (Debug)",
-            "type": "pyro",
-            "projectFile": ".vscode\\papyrus\\debug.ppj",
-            "gamePath": "${config:papyrus.skyrimSpecialEdition.installPath}",
-            "problemMatcher": [
-                "$PapyrusCompiler"
-            ]
-        },
-        {
-            "label": "Compile Papyrus Scripts (Release)",
-            "type": "pyro",
-            "projectFile": ".vscode\\papyrus\\release.ppj",
-            "gamePath": "${config:papyrus.skyrimSpecialEdition.installPath}",
-            "problemMatcher": [
-                "$PapyrusCompiler"
-            ]
-        },
-        {
             "label": "copy-img.bat",
             "type": "shell",
             "command": ".vscode\\scripts\\copy-img.bat",
@@ -59,7 +41,6 @@
             "label": "Build to build\\",
             "group": "build",
             "dependsOn": [
-                "Compile Papyrus Scripts (Release)",
                 "copy-img.bat",
                 "copy-pex.bat",
                 "zip.bat"
@@ -69,7 +50,6 @@
             "label": "Build to dist\\",
             "group": "build",
             "dependsOn": [
-                "Compile Papyrus Scripts (Release)",
                 "copy-img.bat",
                 "copy-pex.bat"
             ]
@@ -78,7 +58,6 @@
             "label": "Build to MO2\\downloads\\",
             "group": "build",
             "dependsOn": [
-                "Compile Papyrus Scripts (Release)",
                 "copy-img.bat",
                 "copy-pex.bat",
                 "zip.bat",
@@ -89,18 +68,9 @@
             "label": "Build to MO2\\mods\\",
             "group": "build",
             "dependsOn": [
-                "Compile Papyrus Scripts (Release)",
                 "copy-img.bat",
                 "copy-pex.bat",
                 "mo2-mod.bat"
-            ]
-        },
-        {
-            "label": "Compile Papyrus Scripts",
-            "group": "build",
-            "dependsOn": [
-                "Compile Papyrus Scripts (Debug)",
-                "Compile Papyrus Scripts (Release)"
             ]
         },
         {
@@ -109,13 +79,6 @@
             "dependsOn": [
                 "md2nexus.bat"
             ]
-        },
-        {
-            "label": "Prepare Repository",
-            "type": "shell",
-            "command": "${command:python.interpreterPath}",
-            "args": [".vscode\\scripts\\prepare_repo.py"],
-            "group": "build"
         }
     ]
 }
