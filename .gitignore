@@ -24,8 +24,8 @@ build/release/
 #dist/**/scripts/*.pex
 
 # Custom #
-__temp.*
-_snippets.*
+*temp.*
+*snippets.*
 
 # Dependencies #
 

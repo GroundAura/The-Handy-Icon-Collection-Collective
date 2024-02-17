@@ -1,0 +1,110 @@
+"/interface/AIT/Aura/icons.swf" - Icons by various authors. Specific credits and permissions listed below.
+[
+psychosteve
+ashingda
+Jelidity
+Some modifications made by GroundAura.
+
+GroundAura
+]
+
+"/interface/AIT/GameIcons/icons.swf" - Icons by various authors. Specific credits and permissions listed below.
+[
+https://game-icons.net/ per CC BY 3.0 license
+caro-asercian
+catsu
+darkzaitzev
+delapouite
+lorc
+sbed
+skoll
+willdabeast
+various
+Some modifications made by GroundAura.
+
+psychosteve
+ashingda
+]
+
+"/interface/AIT/MoreIcons/icons.swf" - Icons by various authors. Specific credits and permissions listed below.
+[
+https://www.svgrepo.com/
+
+https://uxwing.com/
+
+InventIcons.com
+Cabbage vector icon created by Mentor
+Cutlery vector icon created by Abdulwahab Ali
+
+https://thenounproject.com per CCBY license
+haircut cape, eyepatch, crate by Amethyst Studio
+Pie by Paisley
+treasure by Uswa KDT
+Jar by Yazmin Alanis
+Lute by Kiran Shastry
+Bread by zidney
+candy by Bohdan Burmich
+Bowl by Charlotte Vogel
+meal by Lars Meiertoberens
+earring by Deemak Daksina
+Bullet by Goodfather
+heels by Aldric Rodríguez
+Glasses by Lyhn
+Underwear by Locad
+panty by Raindrops
+Bra by Jacqueline Fernandes
+Goggles by Marta Botter
+bandana by pippa lipa
+Honeycomb by MUHAMAD KHOTIBUL UMAM
+beer keg by Smashicons
+]
+
+"/interface/Dodo/powers.swf" - Icons by Dodowingster. Credit required.
+
+"/interface/I4IconAddon/icons.swf" - Icons by Jelidity. Open perms.
+
+"/interface/I4IconArclight/icons.swf" - Icon by Ezervane. Nexus only, no paywalling.
+
+"/interface/I4IconAstral/icons.swf" - Icon by Ezervane. Nexus only, no paywalling.
+
+"/interface/I4IconConstellation/icons.swf" - Icon by Ezervane. Nexus only, no paywalling.
+
+"/interface/I4IconDesecration/icons.swf" - Icon by Ezervane. Nexus only, no paywalling.
+
+"/interface/I4IconLunaris/icons.swf" - Icon by Jelidity. Open perms.
+
+"/interface/I4IconNecrom/icons.swf" - Icon by Ezervane. Nexus only, no paywalling.
+
+"/interface/I4IconStormcalling/icons.swf" - Icon by Ezervane. Nexus only, no paywalling.
+
+"/interface/IAmNotSimon/Disease.swf" - Icons by IAmNotSimon and Mariët Visser. Credit required, Nexus only, no paywalling.
+
+"/interface/IAmNotSimon/Earth.swf" - Icon by IAmNotSimon and Maxicons. Credit required, Nexus only, no paywalling, and permission required for DP.
+
+"/interface/IAmNotSimon/RacialIcons.swf" - Icons by IAmNotSimon, UESP.net, Bethesda, cimer.rajzolas, and Redshiftja. Credit required, Nexus only, no paywalling.
+
+"/interface/IAmNotSimon/Sound.swf" - Icon by IAmNotSimon. Credit required, Nexus only, no paywalling, and permission required for DP.
+
+"/interface/IAmNotSimon/Space.swf" - Icon by IAmNotSimon and Victoruler. Credit required, Nexus only, no paywalling, and permission required for DP.
+
+"/interface/IAmNotSimon/Stars.swf" - Icon by IAmNotSimon and Travis Avery. Credit required, Nexus only, no paywalling, and permission required for DP.
+
+"/interface/IAmNotSimon/StandingStones.swf" - Icon by IAmNotSimon. Credit required, Nexus only, no paywalling.
+
+"/interface/IAmNotSimon/Time.swf" - Icon by IAmNotSimon and Rolas Design. Credit required, no paywalling, and permission required for DP.
+
+"/interface/IAmNotSimon/WitcherSigns.swf" - Icons by IAmNotSimon. Credit required, Nexus only, no paywalling, and permission required for DP.
+
+"/interface/IAmNotSimon/Wounds.swf" - Icons by IAmNotSimon, Feri Saputra, iconsmind.com, Psychosteve, Phạm Thanh Lộc, and Cédric Villain. Credit required, Nexus only, no paywalling, and permission required for DP.
+
+"/interface/JELFearsomeFistsImproved/icons.swf" - Icon by Jelidity. Open perms.
+
+"/interface/Magus/Gourmet/icons.swf" - Icons by Jelidity. Open perms.
+
+"/interface/MCE/icons.swf" - Icon by Jelidity. Open perms.
+
+"/interface/MissileSandwiches/icons.swf" - Icon by Jelidity. Open perms.
+
+"/interface/skyui/icons_item_psychosteve.swf" - Icons by Psychosteve and Ashingda. Open perms.
+
+"/interface/skyui_weapons_pack/icons.swf" - Icons by Ashingda. Open perms.
