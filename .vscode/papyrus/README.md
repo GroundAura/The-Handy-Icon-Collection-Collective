@@ -18,7 +18,7 @@
 
 ## Develop
 
-- Create your script files in the `\dist\{FolderName}\Source\scripts\` directory
+- Create your script files in the `\dist\The Handy Icon Collection Collective\Source\scripts\` directory
 
 - Run the build task (`ctrl-shift-b` by default, or `ctrl-shift-p` -> `Run Build Task`) to build both release and debug versions
 

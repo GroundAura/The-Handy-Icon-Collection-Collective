@@ -1,7 +1,7 @@
-# {TitleName}
+# The Handy Icon Collection Collective
 
 ---
 
-Welcome to the {TitleName} wiki!
+Welcome to the The Handy Icon Collection Collective wiki!
 
-{TitleName} is a mod for Skyrim Special Edition.
+The Handy Icon Collection Collective is a mod for Skyrim Special Edition.

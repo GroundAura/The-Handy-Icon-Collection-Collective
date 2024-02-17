@@ -1,17 +1,17 @@
 {
 "$schema": "https://raw.githubusercontent.com/Exit-9B/MCM-Helper/main/docs/config.schema.json",
-"modName": "{PluginName}",
-"displayName": "${PluginNameShort}_MCM",
+"modName": "THICC_Icons",
+"displayName": "$THICC_Icons_MCM",
 "minMcmVersion": 13,
-"pluginRequirements": [ "{PluginName}.esp" ],
+"pluginRequirements": [ "THICC_Icons.esp" ],
 "cursorFillMode": "topToBottom",
 "pages": [
 	{
-		"pageDisplayName": "${PluginNameShort}_MCM_Page1",
+		"pageDisplayName": "$THICC_Icons_MCM_Page1",
 		"cursorFillMode": "topToBottom",
 		"content": [
 			{
-				"text": "${PluginNameShort}_MCM_Heading1",
+				"text": "$THICC_Icons_MCM_Heading1",
 				"type": "header"
 			}
 		]

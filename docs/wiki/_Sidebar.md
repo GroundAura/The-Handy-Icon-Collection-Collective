@@ -1,1 +1,1 @@
-# [{TitleName}](https://github.com/{GitHubAccount}/{RepositoryName}/wiki)
+# [The Handy Icon Collection Collective](https://github.com/GroundAura/The-Handy-Icon-Collection-Collective/wiki)
