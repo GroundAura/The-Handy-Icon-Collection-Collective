@@ -1,101 +1,111 @@
 # The Handy Icon Collection Collective - Changelog
 
+## Version 1.6.0
+
+- **Icon SWF (`interface/Magus/Sorcerer/icons.swf`):** Added icon collection.
+
+- **Icon SWF (`interface/Muetzl/icons.swf`):** Added icon collection.
+
+- **Icon SWF (`interface/TailArmorIcons/TailArmorIcons.swf`):** Added icon collection.
+
+- **Licenses:** Updated `LICENSE.md` files to be even more clear and explicit.
+
 ## Version 1.5.0
 
-- Icon Pack (`Dodo/powers.swf`): Added new `power_horsewhistle` icon.
+- **Icon SWF (`interface/Dodo/powers.swf`):** Added new `power_horsewhistle` icon.
 
-- New Icon Pack: (`Dodo/skills.swf`).
+- **Icon SWF (`interface/Dodo/skills.swf`):** Added icon collection.
 
-- New Icon Pack: (`MarkAsJunk/icons.swf`).
+- **Icon SWF (`interface/MarkAsJunk/icons.swf`):** Added icon collection.
 
-- Changed `icon sources.txt` files to more in-depth `LICENSE.md` files.
+- **Licenses:** Changed `icon sources.txt` files to more in-depth `LICENSE.md` files.
 
 ## Version 1.4.1
 
-- New Icon Pack: (/IAmNotSimon/Disease.swf)
+- **Icon SWF (`interface/IAmNotSimon/Disease.swf`):** Added icon collection.
 
 ## Version 1.4.0
 
-- New Icon Pack: (/Dodo/powers.swf)
+- **Icon SWF (`interface/Dodo/powers.swf`):** Added icon collection.
 
-- New Icon Pack: (/IAmNotSimon/RacialIcons.swf)
+- **Icon SWF (`interface/IAmNotSimon/RacialIcons.swf`):** Added icon collection.
 
-- New Icon Pack: (/Magus/Gourmet/icons.swf)
+- **Icon SWF (`interface/Magus/Gourmet/icons.swf`):** Added icon collection.
 
-- New Icon Pack: (/MissileSandwiches/icons.swf)
+- **Icon SWF (`interface/MissileSandwiches/icons.swf`):** Added icon collection.
 
 ## Version 1.3.0
 
-- New Icon Pack: (/I4IconArclight/icons.swf)
+- **Icon SWF (`interface/I4IconArclight/icons.swf`):** Added icon collection.
 
-- New Icon Pack: (/I4IconDesecration/icons.swf)
+- **Icon SWF (`interface/I4IconDesecration/icons.swf`):** Added icon collection.
 
-- New Icon Pack: (/IAmNotSimon/StandingStone.swf)
+- **Icon SWF (`interface/IAmNotSimon/StandingStone.swf`):** Added icon collection.
 
-- New Icon Pack: (/IAmNotSimon/Wounds.swf)
+- **Icon SWF (`interface/IAmNotSimon/Wounds.swf`):** Added icon collection.
 
-- New Icon Pack: (/MCE/icons.swf)
+- **Icon SWF (`interface/MCE/icons.swf`):** Added icon collection.
 
-- Added credits text files for all icon swfs.
+- **Icon SVG:** Added SVG source files for all icons.
 
-- Added SVG source file.
+- **Licenses:** Added `icon sources.txt` files for all icons.
 
 ## Version 1.2.2
 
-- New Icon Pack: (/I4IconNecrom/icons.swf)
+- **Icon SWF (`interface/I4IconNecrom/icons.swf`):** Added icon collection.
 
 ## Version 1.2.1
 
-- (/IAmNotSimon/WitcherSigns.swf): Updated icons with .svg.
+- **Icon SWF (`interface/IAmNotSimon/WitcherSigns.swf`):** Updated icons with higher quality SVG icons.
 
 ## Version 1.2.0
 
-- New Icon Pack: (/IAmNotSimon/Space.swf)
+- **Icon SWF (`interface/IAmNotSimon/Space.swf`):** Added icon collection.
 
-- New Icon Pack: (/IAmNotSimon/Stars.swf)
+- **Icon SWF (`interface/IAmNotSimon/Stars.swf`):** Added icon collection.
 
 ## Version 1.1.0
 
-- (/AIT/Aura/icons.swf): Added 2 new icons.
+- **Icon SWF (`interface/AIT/Aura/icons.swf`):** Added 2 new icons.
 
-- (/AIT/GameIcons/icons.swf): Changed "armor_wings" to "armor_wing". Added new "armor_wings" icon.
+- **Icon SWF (`interface/AIT/GameIcons/icons.swf`):** Changed label of `armor_wings` icon to `armor_wing`. Added new `armor_wings` icon.
 
-- (/AIT/GameIcons/icons.swf): Added 36 new icons.
+- **Icon SWF (`interface/AIT/GameIcons/icons.swf`):** Added 36 new icons.
 
-- New Icon Pack: (/I4IconAstral/icons.swf)
+- **Icon SWF (`interface/I4IconAstral/icons.swf`):** Added icon collection.
 
-- New Icon Pack: (/I4IconConstellation/icons.swf)
+- **Icon SWF (`interface/I4IconConstellation/icons.swf`):** Added icon collection.
 
-- New Icon Pack: (/I4IconStormcalling/icons.swf)
+- **Icon SWF (`interface/I4IconStormcalling/icons.swf`):** Added icon collection.
 
-- New Icon Pack: (/IAmNotSimon/Earth.swf)
+- **Icon SWF (`interface/IAmNotSimon/Earth.swf`):** Added icon collection.
 
-- New Icon Pack: (/IAmNotSimon/Sound.swf)
+- **Icon SWF (`interface/IAmNotSimon/Sound.swf`):** Added icon collection.
 
-- New Icon Pack: (/IAmNotSimon/Time.swf)
+- **Icon SWF (`interface/IAmNotSimon/Time.swf`):** Added icon collection.
 
-- New Icon Pack: (/IAmNotSimon/WitcherSigns.swf)
+- **Icon SWF (`interface/IAmNotSimon/WitcherSigns.swf`):** Added icon collection.
 
 ## Version 1.0.1
 
-- (/AIT/GameIcons/icons.swf): Added "misc_card" icon.
+- **Icon SWF (`interface/AIT/GameIcons/icons.swf`):** Added new `misc_card` icon.
 
 ## Version 1.0.0
 
-- Initial Release.
+- **Initial release.**
 
-- New Icon Pack: (/AIT/Aura/icons.swf)
+- **Icon SWF (`interface/AIT/Aura/icons.swf`):** Added icon collection.
 
-- New Icon Pack: (/AIT/GameIcons/icons.swf)
+- **Icon SWF (`interface/AIT/GameIcons/icons.swf`):** Added icon collection.
 
-- New Icon Pack: (/AIT/MoreIcons/icons.swf)
+- **Icon SWF (`interface/AIT/MoreIcons/icons.swf`):** Added icon collection.
 
-- New Icon Pack: (/I4IconLunaris/icons.swf)
+- **Icon SWF (`interface/I4IconAddon/icons.swf`):** Added icon collection.
 
-- New Icon Pack: (/I4IconAddon/icons.swf)
+- **Icon SWF (`interface/I4IconLunaris/icons.swf`):** Added icon collection.
 
-- New Icon Pack: (/JELFearsomeFistsImproved/icons.swf)
+- **Icon SWF (`interface/JELFearsomeFistsImproved/icons.swf`):** Added icon collection.
 
-- New Icon Pack: (/SkyUI/icons_item_psychosteve.swf)
+- **Icon SWF (`interface/SkyUI/icons_item_psychosteve.swf`):** Added icon collection.
 
-- New Icon Pack: (/SkyUI_Weapons_Pack/icons.swf)
+- **Icon SWF (`interface/SkyUI_Weapons_Pack/icons.swf`):** Added icon collection.
