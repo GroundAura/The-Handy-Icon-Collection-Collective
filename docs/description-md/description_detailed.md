@@ -267,6 +267,9 @@ x, x, x, x, x, x, x, x, x
 x, `weapon_spear`, `weapon_javelin`, `weapon_pike`, `weapon_halberd`, `weapon_rapier`, `weapon_quarterstaff`, `weapon_claw`, `weapon_whip`, `weapon_katana`
 `weapon_scythe`, `weapon_gun`
 \[/spoiler\]
+
+\[center\]![Contributing]()\[/center\]
+
 If anyone wants to share icons to be included in T.H.I.C.C., feel free to contact me.
 
 ### **\[font=Verdana\]Unincluded Icon Packs:\[/font\]**
@@ -466,36 +469,6 @@ x, `ammo_bodkin`, `ammo_broadhead`, `ammo_crescent`, `ammo_firearrow`, `ammo_ham
 Why it's not included: Permissions.
 \[/spoiler\]
 If you know of any other mods that add inventory icons, please let me know.
-
-**\[font=Verdana\]Mods Referenced:\[/font\]**
-
-- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) by [schlangster](https://www.nexusmods.com/skyrimspecialedition/users/28794), [psychosteve](https://www.nexusmods.com/skyrim/users/37741), and the SkyUI team.
-- [SkyUI Weapons Pack SE](https://www.nexusmods.com/skyrimspecialedition/mods/37231) by [ashingda](https://www.nexusmods.com/skyrimspecialedition/users/10236085).
-- [Inventory Interface Information Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702) by [Parapets](https://www.nexusmods.com/skyrimspecialedition/users/39501725) and [Jelidity](https://www.nexusmods.com/users/4569617).
-- [More Craftable Equipment - Unenchanted Clothing and Specialty Gear](https://www.nexusmods.com/skyrimspecialedition/mods/44666) by [Parapets](https://www.nexusmods.com/skyrimspecialedition/users/39501725) and [Jelidity](https://www.nexusmods.com/users/4569617).
-- [I4 - SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/85703) by [Parapets](https://www.nexusmods.com/skyrimspecialedition/users/39501725) and [ashingda](https://www.nexusmods.com/skyrimspecialedition/users/10236085).
-- [Lunaris](https://www.nexusmods.com/skyrimspecialedition/mods/80852) by [Darenii](https://www.nexusmods.com/skyrimspecialedition/users/5073294) and [Jelidity](https://www.nexusmods.com/users/4569617).
-- [Functional Fearsome Fists - Innate Unarmed Boost](https://www.nexusmods.com/skyrimspecialedition/mods/59460) by [Jelidity](https://www.nexusmods.com/users/4569617).
-- [Arclight Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92733) by [Ezervane](https://www.nexusmods.com/users/22016239).
-- [Astral Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92079) by [Ezervane](https://www.nexusmods.com/users/22016239).
-- [Constellation Magic Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92145) by [Ezervane](https://www.nexusmods.com/users/22016239).
-- [Desecration Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92474) by [Ezervane](https://www.nexusmods.com/users/22016239).
-- [Necrom Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92406) by [Ezervane](https://www.nexusmods.com/users/22016239).
-- [Storm Calling Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92189) by [Ezervane](https://www.nexusmods.com/users/22016239).
-- [Cosmic Spells - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92307) by [IAmNotSimon](https://www.nexusmods.com/users/160117868).
-- [Elemental Destruction Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92209) by [IAmNotSimon](https://www.nexusmods.com/users/160117868).
-- [Glamoril - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92292) by [IAmNotSimon](https://www.nexusmods.com/users/160117868).
-- [Inventory Interface Information Injector - Alternative Earth Magic Icon - I4](https://www.nexusmods.com/skyrimspecialedition/mods/92170) by [IAmNotSimon](https://www.nexusmods.com/users/160117868).
-- [Sonic Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92091) by [IAmNotSimon](https://www.nexusmods.com/users/160117868).
-- [Standing Stones - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/92780) by [IAmNotSimon](https://www.nexusmods.com/users/160117868).
-- [Stellaris - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92301) by [IAmNotSimon](https://www.nexusmods.com/users/160117868).
-- [The Witcher Signs - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92127) by [IAmNotSimon](https://www.nexusmods.com/users/160117868).
-- [Wounds - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92614) by [IAmNotSimon](https://www.nexusmods.com/users/160117868).
-- [Racial Abilities - I4 icons](https://www.nexusmods.com/skyrimspecialedition/mods/93219) by [IAmNotSimon](https://www.nexusmods.com/users/160117868).
-- [Dodo's Influential Custom Key Symbols](https://www.nexusmods.com/skyrimspecialedition/mods/98619) by [Dodowingster](https://www.nexusmods.com/skyrimspecialedition/users/51260301).
-- [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876) by [SimonMagus616](https://www.nexusmods.com/skyrimspecialedition/users/67410746) and [Jelidity](https://www.nexusmods.com/users/4569617).
-- [Sandwiches of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/98881) by [MissileMann](https://www.nexusmods.com/skyrimspecialedition/users/51322576) and [Jelidity](https://www.nexusmods.com/users/4569617).
-- [Diseases - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/94076) by [IAmNotSimon](https://www.nexusmods.com/users/160117868).
 
 \[center\]![Thanks]()\[/center\]
 
