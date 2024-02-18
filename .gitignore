@@ -26,6 +26,7 @@ build/release/
 # Custom #
 *temp.*
 *snippets.*
+*.swf
 
 # Dependencies #
 
