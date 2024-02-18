@@ -1,0 +1,1 @@
+For an example of a mod that uses most of these icons, check out [Aura's Inventory Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/68557).

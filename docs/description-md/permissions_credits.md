@@ -1,4 +1,4 @@
-\[font=Verdana\]**Mods Referenced:**\[/font\]
+\[font=Verdana\]**Assets:**\[/font\]
 
 - WIP
 
