@@ -2,8 +2,7 @@ This work is a compilation of assets from numerous sources, each with individual
 
 You are free to use any file or asset here as long as you follow those files' and assets' licenses and usage conditions. Said licenses and usage conditions are specified in LICENSE.md text files in the same subdirectories (folders) as those files and assets. LICENSE.md files may also link to web addresses or local file paths with more information about licenses and usage conditions where necessary.
 
-Any files or assets without any licenses or usage conditions that can be reasonably assertained are licensed under the BSD 3-Clause Clear License, also known as The Clear BSD License, provided below. The Clear BSD License can be previewed at https://choosealicense.com/licenses/bsd-3-clause-clear/ for an simplified overview of the license.
-
+Any files or assets without any licenses or usage conditions that can be reasonably assertained are licensed under the BSD 3-Clause Clear License, also known as The Clear BSD License, provided below. The Clear BSD License can be previewed at [choosealicense.com/licenses/bsd-3-clause-clear](https://choosealicense.com/licenses/bsd-3-clause-clear/) for an simplified overview of the license.
 
 The Clear BSD License
 
@@ -14,16 +13,11 @@ Redistribution and use in source and binary forms, with or without
 modification, are permitted (subject to the limitations in the disclaimer
 below) provided that the following conditions are met:
 
-     * Redistributions of source code must retain the above copyright notice,
-     this list of conditions and the following disclaimer.
+- Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 
-     * Redistributions in binary form must reproduce the above copyright
-     notice, this list of conditions and the following disclaimer in the
-     documentation and/or other materials provided with the distribution.
+- Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 
-     * Neither the name of the copyright holder nor the names of its
-     contributors may be used to endorse or promote products derived from this
-     software without specific prior written permission.
+- Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 NO EXPRESS OR IMPLIED LICENSES TO ANY PARTY'S PATENT RIGHTS ARE GRANTED BY
 THIS LICENSE. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND

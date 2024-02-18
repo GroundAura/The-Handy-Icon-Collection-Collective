@@ -1,1 +1,1 @@
-The Handy Icon Collection Collective (T.H.I.C.C.) for I4 is a resource that provides icons packed into .SWF files so mods utilizing Inventory Interface Information Injector have plentiful new icons to use.
+The Handy Icon Collection Collective is a resource that provides icons for use with UI mods utilizing utilities such as I4 and C.O.C.K.S.
