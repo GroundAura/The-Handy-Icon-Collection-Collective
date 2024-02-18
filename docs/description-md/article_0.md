@@ -1,4 +1,4 @@
-# [**B.O.O.B.I.E.S (aka Immersive Icons)**](https://www.nexusmods.com/skyrimspecialedition/mods/89241)
+# \[center\][\[font=Verdana\]\[color=#ffffff\]\[u\]**B.O.O.B.I.E.S (aka Immersive Icons)**\[/u\]\[/font\]\[/color\]](https://www.nexusmods.com/skyrimspecialedition/mods/89241)\[/center\]
 
 \[center\]![Preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Preview.png)\[/center\]
 

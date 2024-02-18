@@ -1,5 +1,3 @@
 # TODO
 
-- [x] Create todo.md
-
-- [ ] Add tasks to todo.md
+- [ ] update [Inventory Interface Information Injector - Alternative Earth Magic Icon - I4](https://www.nexusmods.com/skyrimspecialedition/mods/92170)

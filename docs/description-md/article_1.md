@@ -1,4 +1,4 @@
-# [**Skyrim Arrow Overhaul**](https://www.nexusmods.com/skyrimspecialedition/mods/82477)
+# \[center\][\[font=Verdana\]\[color=#ffffff\]\[u\]**Skyrim Arrow Overhaul**\[/u\]\[/font\]\[/color\]](https://www.nexusmods.com/skyrimspecialedition/mods/82477)\[/center\]
 
 \[center\]![Preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Preview.png)\[/center\]
 

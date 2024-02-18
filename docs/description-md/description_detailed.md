@@ -96,7 +96,12 @@ x, `power_campfire`, `power_createitem`, `power_harvestwood`, `power_instincts`,
 ### \[font=Verdana\]**Dodo/skills.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(Dodo%5Eskills.swf).png)
-WIP
+
+x, `skill_alteration`, `skill_alterationalt`, `skill_conjuration`, `skill_conjurationalt`, `skill_destruction`, `skill_destructionalt`, `skill_enchanting`, `skill_enchantingalt`, `skill_illusion`,
+
+`skill_illusionalt`, `skill_restoration`, `skill_restorationalt`, `skill_archery`, `skill_blocking`, `skill_heavyarmor`, `skill_onehanded`, `skill_twohanded`, `skill_smithing`, `skill_alchemy`,
+
+`skill_lockpicking`, `skill_pickpocket`, `skill_sneak`, `skill_speechcraft`, `skill_lightarmor`, `skill_enchantingbase`, `spell_misc`
 
 ### \[font=Verdana\]**I4IconAddon/icons.swf**\[/font\]
 
@@ -161,7 +166,6 @@ x, `clothing_backpack`, `clothing_cloak`, `scroll_spider`, `misc_housepart`, `mi
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(IAmNotSimon%5EEarth.swf).png)
 
 `magic_earth`
-\[/spoiler\] WIP
 
 ### \[font=Verdana\]**IAmNotSimon/RacialIcons.swf**\[/font\]
 
@@ -306,8 +310,8 @@ x, `weapon_spear`, `weapon_javelin`, `weapon_pike`, `weapon_halberd`, `weapon_ra
 Icons that are **not** included in T.H.I.C.C., for permissions or other reasons. These icons can only be utilized when additional mods are installed.
 Previews of these icons are provided (on separate articles) for your convenience.
 
-- [BOOBIES Immersive Icons](https://www.nexusmods.com/skyrimspecialedition/mods/68557) ([Preview](WIP))
-- [Skyrim Arrow Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/82477) ([Preview](WIP))
+- [BOOBIES Immersive Icons](https://www.nexusmods.com/skyrimspecialedition/mods/68557) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6445))
+- [Skyrim Arrow Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/82477) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6446))
 
 If you know of any other mods that add inventory icons, please let me know.
 
