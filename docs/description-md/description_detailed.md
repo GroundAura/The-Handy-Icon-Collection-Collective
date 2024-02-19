@@ -37,7 +37,7 @@ The only exception I know of is [SkyUI The Adventurer Theme](https://www.nexusmo
 \[center\]![Preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Preview.png)\[/center\]
 Shows the icons and provides the paths you need to reference them in I4. For mod authors or if you just want to see all the icons.
 
-\[center\]\[font=Verdana\]Every icon pack is stored in ".../interface/"\[/font\]\[/center\]
+\[font=Verdana\]**Every icon pack is stored in ".../interface/"**\[/font\]
 
 ### \[font=Verdana\]**AIT/Aura/icons.swf**\[/font\]
 
@@ -171,7 +171,7 @@ x, `clothing_backpack`, `clothing_cloak`, `scroll_spider`, `misc_housepart`, `mi
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(IAmNotSimon%5ERacialIcons.swf).png)
 
-x, `race_altmer`, `race_argonian`, `race_bosmer`, `race_breton`, `race_dunmer`, `race_imperial`, `race_khajiir`, `race_nord`, `race_orsimer`,
+x, `race_altmer`, `race_argonian`, `race_bosmer`, `race_breton`, `race_dunmer`, `race_imperial`, `race_khajiit`, `race_nord`, `race_orsimer`,
 
 `race_redguard`, `race_dwemer`, `race_falmer`
 
