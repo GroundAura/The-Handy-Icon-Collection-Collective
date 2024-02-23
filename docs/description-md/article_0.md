@@ -95,7 +95,7 @@ x, `weapon_bladestaff`, `weapon_claws`, `weapon_giantsword`, `weapon_glaive`, `w
 
 ### \[font=Verdana\]**BOOBIES Immersive Icons/aedric artefacts.swf**\[/font\]
 
-![icon preview](WIP)
+![icon preview](https://staticdelivery.nexusmods.com/mods/1704/images/90508/90508-1693035334-2050009944.png)
 
 x, `chrysamere`, `staff_of_magnus`, `auriel_bow`, x, `auriel_shield`, `crusader_boots`, `crusader_cuirass`, `crusader_gauntlets`, `crusader_helm`,
 
@@ -103,7 +103,7 @@ x, `chrysamere`, `staff_of_magnus`, `auriel_bow`, x, `auriel_shield`, `crusader_
 
 ### \[font=Verdana\]**BOOBIES Immersive Icons/bodyparts.swf**\[/font\]
 
-![icon preview](WIP)
+![icon preview](https://staticdelivery.nexusmods.com/mods/1704/images/90508/90508-1693035334-1915017882.png)
 
 x, `armor_bandolier`, `armor_pouch`, `armor_lantern`, `armor_dragonmask`, `armor_fullmask`, `armor_facemask`, `armor_hat`, `armor_horns`, `armor_smallmask`,
 
@@ -113,7 +113,7 @@ x, `armor_bandolier`, `armor_pouch`, `armor_lantern`, `armor_dragonmask`, `armor
 
 ### \[font=Verdana\]**BOOBIES Immersive Icons/books.swf**\[/font\]
 
-![icon preview](WIP)
+![icon preview](https://staticdelivery.nexusmods.com/mods/1704/images/90508/90508-1693035338-780597992.png)
 
 x, `black_book`, x, book_missive`, x, book_atronachforge`, `book_crafting`, `book_recipe`, `book_herma_mora`, `book_spell_destruction`,
 
@@ -121,13 +121,13 @@ x, `black_book`, x, book_missive`, x, book_atronachforge`, `book_crafting`, `boo
 
 ### \[font=Verdana\]**BOOBIES Immersive Icons/daedric artefacts of boethiah.swf**\[/font\]
 
-![icon preview](WIP)
+![icon preview](https://staticdelivery.nexusmods.com/mods/1704/images/90508/90508-1693035339-1415870682.png)
 
 `boethiah_lyisius_dagger`, `boethiah_goldbrand_1H`, `boethiah_goldbrand_2H`, `boethiah_fearstruck`, `boethiah_walking_staff`, `boethiah_shashev_ring`
 
 ### \[font=Verdana\]**BOOBIES Immersive Icons/daedric artefacts.swf**\[/font\]
 
-![icon preview](WIP)
+![icon preview](https://staticdelivery.nexusmods.com/mods/1704/images/90508/90508-1693035343-1561217188.png)
 
 x, `black_book`, `volendrung`, `ebony_blade`, `ebony_mail`, `mace_molag_bal`, `mask_clavicus_vile`, `mehrunes_razor`, `ring_hircine`, `ring_namira`,
 
@@ -137,19 +137,19 @@ x, `black_book`, `volendrung`, `ebony_blade`, `ebony_mail`, `mace_molag_bal`, `m
 
 ### \[font=Verdana\]**BOOBIES Immersive Icons/dwemer artefacts.swf**\[/font\]
 
-![icon preview](WIP)
+![icon preview](https://staticdelivery.nexusmods.com/mods/1704/images/90508/90508-1693035343-1234110915.png)
 
 `weapon_keening`, `weapon_sunder`, `armor_wraithguard`, `aetherial_staff`, `aetherial_shield`, `weapon_blackbow`, `aetherial_crown`
 
 ### \[font=Verdana\]**BOOBIES Immersive Icons/food.swf**\[/font\]
 
-![icon preview](WIP)
+![icon preview](https://staticdelivery.nexusmods.com/mods/1704/images/90508/90508-1693035346-1864294923.png)
 
 `crab`
 
 ### \[font=Verdana\]**BOOBIES Immersive Icons/icons.swf**\[/font\]
 
-![icon preview](WIP)
+![icon preview](https://staticdelivery.nexusmods.com/mods/1704/images/90508/90508-1693035346-1813241794.png)
 
 x, x, x, x, x, x, x, x, x, x,
 
@@ -159,7 +159,7 @@ x, x, x, x, `rose`, `compass`, `map`
 
 ### \[font=Verdana\]**BOOBIES Immersive Icons/legendary artefacts.swf**\[/font\]
 
-![icon preview](WIP)
+![icon preview](https://staticdelivery.nexusmods.com/mods/1704/images/90508/90508-1693035350-892173743.png)
 
 `staff_of_magnus`, `ysgramor_shield`, `weapon_wuuthrad`, `targe_of_the_blooded`, `weapon_chillrend`, `weapon_dragonbane`, `weapon_harkonblade`, `weapon_bloodskal`, `weapon_icebladeofthemonarch2H`,
 
@@ -167,7 +167,7 @@ x, x, x, x, `rose`, `compass`, `map`
 
 ### \[font=Verdana\]**BOOBIES Immersive Icons/weapons.swf**\[/font\]
 
-![icon preview](WIP)
+![icon preview](https://staticdelivery.nexusmods.com/mods/1704/images/90508/90508-1693035350-1282607151.png)
 
 x, `weapon_giantsword`, `weapon_scythe`, `weapon_rapier`, `weapon_saber`, `weapon_halberd`, `weapon_claws`, `weapon_gun`, `weapon_doublesword`, `weapon_nodachi`,
 

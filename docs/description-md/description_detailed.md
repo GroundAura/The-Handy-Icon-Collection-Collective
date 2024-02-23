@@ -332,10 +332,10 @@ x, `weapon_spear`, `weapon_javelin`, `weapon_pike`, `weapon_halberd`, `weapon_ra
 Icons that are **not** included in T.H.I.C.C., for permissions or other reasons. These icons can only be utilized when additional mods are installed.
 Previews of these icons are provided (on separate articles) for your convenience.
 
-- [BOOBIES Immersive Icons](https://www.nexusmods.com/skyrimspecialedition/mods/68557) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6445))
+- [BOOBIES Immersive Icons](https://www.nexusmods.com/skyrimspecialedition/mods/89241) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6445))
 - [Skyrim Arrow Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/82477) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6446))
 
-If you know of any other mods that add inventory icons, please let me know.
+If you know of any other mods that add icon packs, please let me know.
 
 \[center\]![Contributing](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Contributing.png)\[/center\]
 
