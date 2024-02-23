@@ -27,12 +27,57 @@ If the conflicting mod has been updated after THICC then it _may_ have more upda
 [Skills of the Wild](https://www.nexusmods.com/skyrimspecialedition/mods/37693)
 
 \[center\]![Compatibility](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Compatibility.png)\[/center\]
-99% of everything should have no problems.
 
-The only exception I know of is [SkyUI The Adventurer Theme](https://www.nexusmods.com/skyrimspecialedition/mods/35568)'s "Inventory Icons" FOMOD option doesn't play well with I4 mods and is effectively incompatible.
+\[font=Verdana\]**Special Notes**\[/font\]
+
+- [Inventory Interface Information Injector - Alternative Earth Magic Icon - I4](https://www.nexusmods.com/skyrimspecialedition/mods/92170) - 
+- [SkyUI The Adventurer Theme](https://www.nexusmods.com/skyrimspecialedition/mods/35568) - "Inventory Icons" FOMOD option makes conflicting changes to `/interface/SkyUI/icons_item_psychosteve.swf` and doesn't play well with I4 mods, so is effectively incompatible. As long as you leave this option unchecked, or overwrite that file with THICC's, SkyUI TAT is compatible.
 \[spoiler\]
-![SkyUI The Adventurer Theme incompatibility](https://i.imgur.com/hGYxjLC.png)
+![SkyUI TAT compatibility](https://i.imgur.com/hGYxjLC.png)
 \[/spoiler\]
+
+SkyUI Weapons Pack and any derivatives (including SkyUI AIO Survival, Dear Diary, Dear Diary Dark Mode, etc.) - Compatible - 
+
+Mods that include the file:  - Compatible, just overwrite the icon .SWF file(s) (`/interface/SkyUI/icons_item_psychosteve.swf`) with 
+
+\[font=Verdana\]**Compatible, just overwrite any conflicting .SWF files with THICC's .SWF files**\[/font\]
+
+- [Arclight Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92733) - Identical files. Overwrite conflicting files with THICC's.
+- [Astral Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92079) - Identical files. Overwrite conflicting files with THICC's.
+- [Constellation Magic Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92145) - Identical files. Overwrite conflicting files with THICC's.
+- [Cosmic Spells - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92307) - Identical files. Overwrite conflicting files with THICC's.
+- [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010) (or any derivates) - Identical files. Overwrite conflicting files with THICC's.
+- [Dear Diary Dark Mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837) (or any derivates) - Identical files. Overwrite conflicting files with THICC's.
+- [Desecration Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92474) - Identical files. Overwrite conflicting files with THICC's.
+- [Diseases - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/94076) - Identical files. Overwrite conflicting files with THICC's.
+- [Dodo's Influential Custom Key Symbols](https://www.nexusmods.com/skyrimspecialedition/mods/98619) - Identical files. Overwrite conflicting files with THICC's.
+- [Elemental Destruction Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92209) - Identical files. Overwrite conflicting files with THICC's.
+- [Functional Fearsome Fists](https://www.nexusmods.com/skyrimspecialedition/mods/59460) - Identical files. Overwrite conflicting files with THICC's.
+- [Glamoril - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92292) - Identical files. Overwrite conflicting files with THICC's.
+- [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876) - Identical files. Overwrite conflicting files with THICC's.
+- [I4 - SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/85703) - Identical files. Overwrite conflicting files with THICC's.
+- [Inventory Interface Information Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702) - Identical files. Overwrite conflicting files with THICC's.
+- [Lunaris](https://www.nexusmods.com/skyrimspecialedition/mods/80852) - Identical files. Overwrite conflicting files with THICC's.
+- [Mark as Junk](https://www.nexusmods.com/skyrimspecialedition/mods/105245) - Identical files. Overwrite conflicting files with THICC's.
+- [More Craftable Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/44666) - Identical files. Overwrite conflicting files with THICC's.
+- [Necrom Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92406) - Identical files. Overwrite conflicting files with THICC's.
+- [Racial Abilities - I4 icons](https://www.nexusmods.com/skyrimspecialedition/mods/93219) - Identical files. Overwrite conflicting files with THICC's.
+- [Sandwiches of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/98881) - Identical files. Overwrite conflicting files with THICC's.
+- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) - Identical files. Overwrite conflicting files with THICC's.
+- [SkyUI AIO Survival](https://www.nexusmods.com/skyrimspecialedition/mods/17601) (or any derivates) - Identical files. Overwrite conflicting files with THICC's.
+- [SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/37231) (or any derivates) - Identical files. Overwrite conflicting files with THICC's.
+- [Sonic Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92091) - Identical files. Overwrite conflicting files with THICC's.
+- [Sorcerer - A Staff and Scroll Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95196) - Identical files. Overwrite conflicting files with THICC's.
+- [Standing Stones - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/92780) - Identical files. Overwrite conflicting files with THICC's.
+- [Stellaris - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92301) - Identical files. Overwrite conflicting files with THICC's.
+- [Storm Calling Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92189) - Identical files. Overwrite conflicting files with THICC's.
+- [Tail Armors - I4 Tail Icons](https://www.nexusmods.com/skyrimspecialedition/mods/110374) - Identical files. Overwrite conflicting files with THICC's.
+- [The Witcher Signs - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92127) - Identical files. Overwrite conflicting files with THICC's.
+- [Wounds - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92614) - Identical files. Overwrite conflicting files with THICC's.
+
+\[font=Verdana\]**It just works! (probably)**\[/font\]
+
+- Everything else
 
 \[center\]![Preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Preview.png)\[/center\]
 Shows the icons and provides the paths you need to reference them in I4. For mod authors or if you just want to see all the icons.
