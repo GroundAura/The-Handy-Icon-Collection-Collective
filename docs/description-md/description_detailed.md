@@ -2,45 +2,51 @@
 
 \[center\]![Overview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Overview.png)\[/center\]
 
-\[font=Verdana\]**The Handy Icon Collection Collective**\[/font\] (or \[font=Verdana\]**T.H.I.C.C.**\[/font\]) provides prepackaged selections of icons ready to use for UI mods.
-Currently I have prepared icons in SWFs set up to use for SkyUI item/spell icons by using [Inventory Interface Information Injector (I4)](https://www.nexusmods.com/skyrimspecialedition/mods/85702).
-In the future, I may also expand into other mediums, such as [C.O.C.K.S.](https://www.nexusmods.com/skyrimspecialedition/mods/81409) category icons, or [CoMAP](https://www.nexusmods.com/skyrimspecialedition/mods/56123) markers.
+\[font=Verdana\]**The Handy Icon Collection Collective**\[/font\] (or \[font=Verdana\]**T.H.I.C.C.**\[/font\]) is an asset mod that provides icons for use in UI mods. Currently, THICC contains icons packaged into flash movies (.SWF files) which are structured in a way that they can be used for inventory item/spell icons by utilizing [Inventory Interface Information Injector (I4)](https://www.nexusmods.com/skyrimspecialedition/mods/85702) or for crafting category icons by utilizing [Constructible Object Custom Keyword System (C.O.C.K.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/81409).
+
 **This mod does nothing on its own and just provides assets for other mods to use.**
 
 \[center\]![Installation](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Installation.png)\[/center\]
 
-Install T.H.I.C.C. with your choice of mod manager.
-**Asset/mod load order should not matter. If any files are overwritten, don't worry about the order, they should be the exact same files.**
-If the conflicting mod has been updated after THICC then it _may_ have more updated files. In that case overwrite THICC with that mod to ensure you have the newest files.
+Install THICC like any other mod, with MO2 or another mod manager.
 
-\[center\]![Recommendations](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Recommendations.png)\[/center\]
+\[font=Verdana\]**Requirements**\[/font\]
 
-## \[font=Verdana\]**These mods distribute icons from THICC to items & spells:**\[/font\]
+None.
 
-[**Aura's Inventory Tweaks**](https://www.nexusmods.com/skyrimspecialedition/mods/68557)
-[Aura's Scrumptious Supplement](https://www.nexusmods.com/skyrimspecialedition/mods/89823)
-[Phenomenally Enriched and Nuanced Ingredients for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/90526)
-[NPC Underwear Distribution Engine (for Underwear.dll)](https://www.nexusmods.com/skyrimspecialedition/mods/99717)
-[NPC Underwear Distribution Engine](https://www.nexusmods.com/skyrimspecialedition/mods/94018)
-~~[ModiLogist Underwear](https://www.nexusmods.com/skyrimspecialedition/mods/90499)~~
-[Elemental Destruction Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92209)
-[Skills of the Wild](https://www.nexusmods.com/skyrimspecialedition/mods/37693)
+\[font=Verdana\]**Optional Requirements**\[/font\]
+
+- [Inventory Interface Information Injector (I4)](https://www.nexusmods.com/skyrimspecialedition/mods/85702) if you're downloading THICC for a mod utilizing I4 to apply icons. Additionally, you may need [I4 for 1.5](https://www.nexusmods.com/skyrimspecialedition/mods/87002) if you are running Skyrim SE v1.5.97.
+- [Constructible Object Custom Keyword System (COCKS)](https://www.nexusmods.com/skyrimspecialedition/mods/81409) if you're downloading THICC for a mod utilizing COCKS to apply icons. Additionally, you may need [COCKS for 1.5](https://www.nexusmods.com/skyrimspecialedition/mods/81723) or [COCKS NG](https://www.nexusmods.com/skyrimspecialedition/mods/81731) if you are running Skyrim SE v1.5.97, v1.6.640, or any other version not supported by the original mod.
+
+\[font=Verdana\]**Mod Order (Mods View)**\[/font\]
+
+Load THICC after every other mod that it has file conflicts with, unless noted otherwise in the compatibility section.
+
+\[font=Verdana\]**Plugin Order (Plugins View)**\[/font\]
+
+No plugins.
 
 \[center\]![Compatibility](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Compatibility.png)\[/center\]
 
-\[font=Verdana\]**Special Notes**\[/font\]
+\[font=Verdana\]\[color=#fdc500\]**Special Notes**\[/color\]\[/font\]
 
-- [Inventory Interface Information Injector - Alternative Earth Magic Icon - I4](https://www.nexusmods.com/skyrimspecialedition/mods/92170) - 
-- [SkyUI The Adventurer Theme](https://www.nexusmods.com/skyrimspecialedition/mods/35568) - "Inventory Icons" FOMOD option makes conflicting changes to `/interface/SkyUI/icons_item_psychosteve.swf` and doesn't play well with I4 mods, so is effectively incompatible. As long as you leave this option unchecked, or overwrite that file with THICC's, SkyUI TAT is compatible.
+\[color=#fdc500\]If the conflicting mod has been updated after THICC then it _may_ have more updated files. In such a case, unless noted otherwise, overwrite THICC with that mod to ensure you have the newest files.\[/color\]
+
+\[color=#fdc500\]Compatible with exceptions.\[/color\]
+- [Inventory Interface Information Injector - Alternative Earth Magic Icon](https://www.nexusmods.com/skyrimspecialedition/mods/92170)
+\[color=#fdc500\](v1.0) - Identical files. Overwrite conflicting files with THICC's.\[/color\]
+\[color=#fdc500\](v1.1) - Conflicting files. Overwrite conflicting files with Alternate Earth Magic Icon's.\[/color\]
+- [SkyUI The Adventurer Theme](https://www.nexusmods.com/skyrimspecialedition/mods/35568)
+\[color=#fdc500\]SkyUI TAT's "Inventory Icons" installer option makes changes to `/interface/SkyUI/icons_item_psychosteve.swf` that don't play well with I4 mods, so this option is effectively incompatible. So long as you leave this option unchecked, or overwrite conflicting files with THICC's, SkyUI TAT is compatible.\[/color\]
 \[spoiler\]
+\[color=#fdc500\]Don't select this option when installing SkyUI The Adventurer Theme.\[/color\]
 ![SkyUI TAT compatibility](https://i.imgur.com/hGYxjLC.png)
 \[/spoiler\]
 
-SkyUI Weapons Pack and any derivatives (including SkyUI AIO Survival, Dear Diary, Dear Diary Dark Mode, etc.) - Compatible - 
-
-Mods that include the file:  - Compatible, just overwrite the icon .SWF file(s) (`/interface/SkyUI/icons_item_psychosteve.swf`) with 
-
 \[font=Verdana\]**Compatible, just overwrite any conflicting .SWF files with THICC's .SWF files**\[/font\]
+
+Identical files. Overwrite conflicting files with THICC's.
 
 - [Arclight Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92733) - Identical files. Overwrite conflicting files with THICC's.
 - [Astral Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92079) - Identical files. Overwrite conflicting files with THICC's.
@@ -77,7 +83,23 @@ Mods that include the file:  - Compatible, just overwrite the icon .SWF file(s) 
 
 \[font=Verdana\]**It just works! (probably)**\[/font\]
 
-- Everything else
+- Everything else.
+
+\[center\]![Recommendations](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Recommendations.png)\[/center\]
+
+\[font=Verdana\]**Some mods that distribute icons from THICC to items & spells using [I4](https://www.nexusmods.com/skyrimspecialedition/mods/85702):**\[/font\]
+
+- [Aura's Inventory Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/68557)
+- [Aura's Scrumptious Supplement](https://www.nexusmods.com/skyrimspecialedition/mods/89823)
+- [Elemental Destruction Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92209)
+- [NPC Underwear Distribution Engine](https://www.nexusmods.com/skyrimspecialedition/mods/94018)
+- [NPC Underwear Distribution Engine (for Underwear.dll)](https://www.nexusmods.com/skyrimspecialedition/mods/99717)
+- [Phenomenally Enriched and Nuanced Ingredients for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/90526)
+- [Skills of the Wild](https://www.nexusmods.com/skyrimspecialedition/mods/37693)
+
+\[font=Verdana\]**Some mods that distribute icons from THICC to crafting categories using [COCKS](https://www.nexusmods.com/skyrimspecialedition/mods/81409):**\[/font\]
+
+- [Alchemy Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/105386)
 
 \[center\]![Preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Preview.png)\[/center\]
 Shows the icons and provides the paths you need to reference them in I4. For mod authors or if you just want to see all the icons.
@@ -374,7 +396,7 @@ x, `weapon_spear`, `weapon_javelin`, `weapon_pike`, `weapon_halberd`, `weapon_ra
 
 ### \[font=Verdana\]**Other Icon Packs:**\[/font\]
 
-Icons that are **not** included in T.H.I.C.C., for permissions or other reasons. These icons can only be utilized when additional mods are installed.
+Icons that are **not** included in THICC, for permissions or other reasons. These icons can only be utilized when additional mods are installed.
 Previews of these icons are provided (on separate articles) for your convenience.
 
 - [BOOBIES Immersive Icons](https://www.nexusmods.com/skyrimspecialedition/mods/89241) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6445))
@@ -384,7 +406,7 @@ If you know of any other mods that add icon packs, please let me know.
 
 \[center\]![Contributing](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Contributing.png)\[/center\]
 
-If anyone wants to share icons to be included in T.H.I.C.C., feel free to contact me.
+If anyone wants to share icons to be included in THICC, feel free to contact me.
 
 \[center\]![Thanks](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Thanks.png)\[/center\]
 
