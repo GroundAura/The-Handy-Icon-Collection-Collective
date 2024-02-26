@@ -2,8 +2,8 @@
 
 ---
 
-File: "[.\interface\JELFearsomeFistsImproved\icons.swf](https://www.nexusmods.com/skyrimspecialedition/mods/59460)" is adapted from the assets listed below, and is licensed by Authorization (`.\licenses\Authorization\instructions_Jelidity.png`) given to [GroundAura](https://www.nexusmods.com/users/97658973) by [Jelidity](https://www.nexusmods.com/users/4569617).
+File: "[.\interface\JELFearsomeFistsImproved\icons.swf](https://www.nexusmods.com/skyrimspecialedition/mods/59460)" is adapted from the assets listed below, and is licensed by Authorization (`.\licenses\instructions_Jelidity.png`) given to [GroundAura](https://www.nexusmods.com/users/97658973) by [Jelidity](https://www.nexusmods.com/users/4569617).
 
-- Asset: "[fff_brawlinggauntlet](https://www.nexusmods.com/skyrimspecialedition/mods/59460)" is licensed by Authorization (`.\licenses\Authorization\instructions_Jelidity.png`) given to [GroundAura](https://www.nexusmods.com/users/97658973) by [Jelidity](https://www.nexusmods.com/users/4569617).
+- Asset: "[fff_brawlinggauntlet](https://www.nexusmods.com/skyrimspecialedition/mods/59460)" is licensed by Authorization (`.\licenses\instructions_Jelidity.png`) given to [GroundAura](https://www.nexusmods.com/users/97658973) by [Jelidity](https://www.nexusmods.com/users/4569617).
 
 ---

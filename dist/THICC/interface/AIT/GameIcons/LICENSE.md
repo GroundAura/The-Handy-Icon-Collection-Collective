@@ -84,6 +84,6 @@ File: "[.\interface\AIT\GameIcons\icons.swf](https://www.nexusmods.com/skyrimspe
 - Asset: "[weapon_bomb](https://game-icons.net/1x1/lorc/unlit-bomb.html)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Game-Icons.net](https://game-icons.net/).
 - Asset: "[magic_poison](https://game-icons.net/1x1/lorc/vile-fluid.html)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Game-Icons.net](https://game-icons.net/).
 - Asset: "[armor_halo](https://www.nexusmods.com/skyrimspecialedition/mods/90508)" is adapted from [Angel outfit icon](https://game-icons.net/1x1/lorc/angel-outfit.html) by [Game-Icons.net](https://game-icons.net/), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). "armor_halo" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [GroundAura](https://www.nexusmods.com/users/97658973).
-- Asset: "[icons_item_psychosteve.swf](https://www.nexusmods.com/skyrimspecialedition/mods/12604)" is licensed under [Nexus Permissions](https://www.nexusmods.com/skyrimspecialedition/mods/12604) (`.\licenses\Nexus\instructions_SkyUI.png`) by [Psychosteve](https://www.nexusmods.com/users/37741).
+- Asset: "[icons_item_psychosteve.swf](https://www.nexusmods.com/skyrimspecialedition/mods/12604)" is licensed under [Nexus Permissions](https://www.nexusmods.com/skyrimspecialedition/mods/12604) (`.\licenses\instructions_SkyUI.png`) by [Psychosteve](https://www.nexusmods.com/users/37741).
 
 ---
