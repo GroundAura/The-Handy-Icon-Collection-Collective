@@ -33,8 +33,7 @@ File: "[.\interface\AIT\MoreIcons\icons.swf](https://www.nexusmods.com/skyrimspe
 - Asset: "[misc_instrument](https://thenounproject.com/icon/lute-2163068/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Kiran Shastry](https://thenounproject.com/kiran.s1507/).
 - Asset: "[food_bread](https://thenounproject.com/icon/bread-1260296/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [zidney](https://thenounproject.com/zidney0721/).
 - Asset: "[food_honeycomb](https://thenounproject.com/icon/honeycomb-4216493/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [MUHAMAD KHOTIBUL UMAM](https://thenounproject.com/muhamadkhotibulumam98/).
-- Asset: "[food_stew](https://thenounproject.com/icon/bowl-7120/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Charlotte Vogel
-](https://thenounproject.com/Charlotte/).
+- Asset: "[food_stew](https://thenounproject.com/icon/bowl-7120/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Charlotte Vogel](https://thenounproject.com/Charlotte/).
 - Asset: "[armor_earring](https://thenounproject.com/icon/earring-2128080/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Deemak Daksina](https://thenounproject.com/deemakdaksina/).
 - Asset: "[armor_eyepatch](https://thenounproject.com/icon/eyepatch-5098591/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Amethyst Studio](https://thenounproject.com/AmethystStudio/).
 - Asset: "[food_meal](https://thenounproject.com/icon/meal-4623712/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Lars Meiertoberens](https://thenounproject.com/lars.online/).
@@ -44,8 +43,9 @@ File: "[.\interface\AIT\MoreIcons\icons.swf](https://www.nexusmods.com/skyrimspe
 - Asset: "[clothing_Mpanty](https://thenounproject.com/icon/underwear-1419388/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Locad](https://thenounproject.com/luke.locad/).
 - Asset: "[armor_glasses](https://thenounproject.com/icon/glasses-2054421/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Lyhn](https://thenounproject.com/b_nhy/)
 - Asset: "[clothing_heels](https://thenounproject.com/icon/heels-812990/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Aldric Rodríguez](https://thenounproject.com/aldricroib2/).
-- Asset: "[weapon_bullet](https://www.nexusmods.com/skyrimspecialedition/mods/80852)" is adapted from [Bullet](https://thenounproject.com/icon/bullet-321497/) by [Goodfather
-](https://thenounproject.com/goodfather/), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+- Asset: "[weapon_bullet](https://www.nexusmods.com/skyrimspecialedition/mods/80852)" is adapted from [Bullet](https://thenounproject.com/icon/bullet-321497/) by [Goodfather](https://thenounproject.com/goodfather/), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 - Asset: "[armor_bandana](https://thenounproject.com/icon/bandana-14330/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [pippa lipa](https://thenounproject.com/pippalipa/).
 - Asset: "[misc_barrel](https://thenounproject.com/icon/beer-keg-275926/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Smashicons](https://thenounproject.com/smashicons/).
 - Asset: "[misc_crate](https://thenounproject.com/icon/crate-5099755/)" is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) by [Amethyst Studio](https://thenounproject.com/AmethystStudio/).
+
+---
