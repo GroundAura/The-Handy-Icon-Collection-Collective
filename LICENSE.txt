@@ -1,8 +1,8 @@
-This work is a compilation of assets from numerous sources, each with individual licenses and usage conditions.
+This work is a compilation of assets from numerous sources, each with individual licenses and/or usage conditions.
 
-You are free to use any file or asset here as long as you follow those files' and assets' licenses and usage conditions. Said licenses and usage conditions are specified in LICENSE.md text files in the same subdirectories (folders) as those files and assets. LICENSE.md files may also link to web addresses or local file paths with more information about licenses and usage conditions where necessary.
+You are free to use any file or asset here as long as you follow those files' and assets' licenses and usage conditions. Said licenses and usage conditions are specified in LICENSE.md text files in the same directories (folders) as those files and assets. LICENSE.md files may also link to web addresses or to files in ./licenses/ subdirectories with more information about licenses and usage conditions where necessary.
 
-Any files or assets without any licenses or usage conditions that can be reasonably assertained are licensed under the BSD 3-Clause Clear License, also known as The Clear BSD License, provided below. The Clear BSD License can be previewed at https://choosealicense.com/licenses/bsd-3-clause-clear/ for an simplified overview of the license.
+Any files or assets without any licenses or usage instructions that can be reasonably assertained are licensed by GroundAura under the BSD 3-Clause Clear License, also known as The Clear BSD License, provided below. The Clear BSD License can be previewed at https://choosealicense.com/licenses/bsd-3-clause-clear/ for an overview of the license.
 
 
 The Clear BSD License
