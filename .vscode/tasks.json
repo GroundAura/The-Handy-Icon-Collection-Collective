@@ -26,14 +26,14 @@
             "presentation": {"echo": false, "reveal": "always", "focus": false, "panel": "shared", "showReuseMessage": false, "clear": true},
         },
         {
-            "label": "Build to build\\",
+            "label": "Zip to build",
             "group": "build",
             "dependsOn": [
                 "zip.bat"
             ]
         },
         {
-            "label": "Build to MO2\\downloads\\",
+            "label": "Zip to MO2\\downloads",
             "group": "build",
             "dependsOn": [
                 "zip.bat",
@@ -41,14 +41,14 @@
             ]
         },
         {
-            "label": "Build to MO2\\mods\\",
+            "label": "Copy to MO2\\mods",
             "group": "build",
             "dependsOn": [
                 "mo2-mod.bat"
             ]
         },
         {
-            "label": "Build to docs\\description-nexus\\",
+            "label": "Compile description",
             "group": "build",
             "dependsOn": [
                 "md2nexus.bat"
