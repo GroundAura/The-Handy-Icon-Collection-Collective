@@ -26,7 +26,7 @@ build/release/
 # Custom #
 *temp.*
 *snippets.*
-*.swf
+#*.swf
 
 # Dependencies #
 
@@ -51,6 +51,12 @@ idea/private/
 idea/secret/
 
 # Licensed #
+#**/AIT/Aura/icons.swf
+#**/AIT/GameIcons/icons.swf
+#**/AIT/MoreIcons/icons.swf
+#**/Dodo/powers.swf
+#**/Dodo/skills.swf
+#**/I4IconAddon/icons.swf
 **/I4IconArclight/icons.swf
 **/I4IconAstral/icons.swf
 **/I4IconConstellation/icons.swf
@@ -69,7 +75,15 @@ idea/secret/
 **/IAmNotSimon/Time.swf
 **/IAmNotSimon/WitcherSigns.swf
 **/IAmNotSimon/Wounds.swf
-**/SkyUI/icons_item_psychosteve.swf
+#**/JELFearsomeFistsImproved/icons.swf
+#**/Magus/Gourmet/icons.swf
+#**/Magus/Sorcerer/icons.swf
+#**/MarkAsJunk/icons.swf
+#**/MCE/icons.swf
+#**/MissileSandwiches/icons.swf
+#**/Muetzl/icons.swf
+#**/SkyUI/icons_item_psychosteve.swf
+#**/SkyUI_Weapons_Pack/icons.swf
 #**/TailArmorIcons/TailArmorIcons.swf
 
 # OS Files #
