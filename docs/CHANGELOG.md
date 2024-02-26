@@ -2,6 +2,8 @@
 
 ## Version 1.6.0
 
+- **Icon SWF (`interface/AIT/GameIcons/icons.swf`):** Fixed `misc_fossil` icon not rendering.
+
 - **Icon SWF (`interface/Magus/Sorcerer/icons.swf`):** Added icon collection.
 
 - **Icon SWF (`interface/Muetzl/icons.swf`):** Added icon collection.
