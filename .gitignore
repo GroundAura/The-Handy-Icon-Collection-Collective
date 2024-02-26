@@ -47,8 +47,30 @@ idea/hidden/
 idea/ignore/
 idea/licensed/
 idea/old/
-idea/private
+idea/private/
 idea/secret/
+
+# Licensed #
+**/I4IconArclight/icons.swf
+**/I4IconAstral/icons.swf
+**/I4IconConstellation/icons.swf
+**/I4IconDesecration/icons.swf
+#**/I4IconLunaris/icons.swf
+**/I4IconNecrom/icons.swf
+**/I4IconStormcalling/icons.swf
+#**/IAmNotSimon/*.swf
+**/IAmNotSimon/Disease.swf
+**/IAmNotSimon/Earth.swf
+**/IAmNotSimon/RacialIcons.swf
+**/IAmNotSimon/Sound.swf
+**/IAmNotSimon/Space.swf
+**/IAmNotSimon/StandingStone.swf
+**/IAmNotSimon/Stars.swf
+**/IAmNotSimon/Time.swf
+**/IAmNotSimon/WitcherSigns.swf
+**/IAmNotSimon/Wounds.swf
+**/SkyUI/icons_item_psychosteve.swf
+#**/TailArmorIcons/TailArmorIcons.swf
 
 # OS Files #
 **/._.DS_Store
