@@ -411,6 +411,8 @@ If you know of any other mods that add icon packs, please let me know.
 
 If anyone wants to share icons to be included in THICC, feel free to contact me through [Discord](https://discord.gg/zft8DmbfKv) or [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/90508?tab=posts).
 
+If you want to learn how to create icons and use them, I am planning on making a tutorial and providing resources. I'll add a link to that here when it is completed.
+
 \[center\]![Thanks](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Thanks.png)\[/center\]
 
 - [Ashingda](https://www.nexusmods.com/users/10236085), [Delapouite](https://delapouite.com/), [Dodowingster](https://www.nexusmods.com/users/51260301), [Ecskrillos](https://www.nexusmods.com/users/22016239), [Gaetan/WhereDeadAngelsLie](https://www.nexusmods.com/users/9170915), [Horf/PRieST47](https://www.nexusmods.com/users/927130), [IAmNotSimon](https://www.nexusmods.com/users/160117868), [Jelidity](https://www.nexusmods.com/users/4569617), [Lorc](https://lorcblog.blogspot.com/), [Psychosteve](https://www.nexusmods.com/users/37741), and everyone else who made all the amazing icons used here!
