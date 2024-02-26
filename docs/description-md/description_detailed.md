@@ -10,80 +10,83 @@
 
 Install THICC like any other mod, with MO2 or another mod manager.
 
-\[font=Verdana\]**Requirements**\[/font\]
+## \[font=Verdana\]**Requirements**\[/font\]
 
 None.
 
-\[font=Verdana\]**Optional Requirements**\[/font\]
+## \[font=Verdana\]**Optional Requirements**\[/font\]
 
-- [Inventory Interface Information Injector (I4)](https://www.nexusmods.com/skyrimspecialedition/mods/85702) if you're downloading THICC for a mod utilizing I4 to apply icons. Additionally, you may need [I4 for 1.5](https://www.nexusmods.com/skyrimspecialedition/mods/87002) if you are running Skyrim SE v1.5.97.
-- [Constructible Object Custom Keyword System (COCKS)](https://www.nexusmods.com/skyrimspecialedition/mods/81409) if you're downloading THICC for a mod utilizing COCKS to apply icons. Additionally, you may need [COCKS for 1.5](https://www.nexusmods.com/skyrimspecialedition/mods/81723) or [COCKS NG](https://www.nexusmods.com/skyrimspecialedition/mods/81731) if you are running Skyrim SE v1.5.97, v1.6.640, or any other version not supported by the original mod.
+- [Inventory Interface Information Injector (I4)](https://www.nexusmods.com/skyrimspecialedition/mods/85702) - If you're downloading THICC for a mod utilizing I4 to apply icons. Additionally, you may need [I4 for 1.5](https://www.nexusmods.com/skyrimspecialedition/mods/87002) if you are running Skyrim SE v1.5.97.
+- [Constructible Object Custom Keyword System (COCKS)](https://www.nexusmods.com/skyrimspecialedition/mods/81409) - If you're downloading THICC for a mod utilizing COCKS to apply icons. Additionally, you may need [COCKS for 1.5](https://www.nexusmods.com/skyrimspecialedition/mods/81723) or [COCKS NG](https://www.nexusmods.com/skyrimspecialedition/mods/81731) if you are running Skyrim SE v1.5.97, v1.6.640, or any other version not supported by the original mod.
 
-\[font=Verdana\]**Mod Order (Mods View)**\[/font\]
+## \[font=Verdana\]**Mod Order (Mods View)**\[/font\]
 
-Load THICC after every other mod that it has file conflicts with, unless noted otherwise in the compatibility section.
+Generally, load THICC after every other mod that it has file conflicts with, unless noted otherwise in this mod's Compatibility section, or in those mods' descriptions.
 
-\[font=Verdana\]**Plugin Order (Plugins View)**\[/font\]
+## \[font=Verdana\]**Plugin Order (Plugins View)**\[/font\]
 
 No plugins.
 
 \[center\]![Compatibility](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Compatibility.png)\[/center\]
 
-\[font=Verdana\]\[color=#fdc500\]**Special Notes**\[/color\]\[/font\]
+\[color=#fdc500\]If mods with conflicting files have been updated after THICC then they **may** have updated those files, such as by adding new icons. This may clash with this compatibility information and/or require THICC to be updated. Use common sense or leave a comment if you're confused.\[/color\]
 
-\[color=#fdc500\]If the conflicting mod has been updated after THICC then it _may_ have more updated files. In such a case, unless noted otherwise, overwrite THICC with that mod to ensure you have the newest files.\[/color\]
+## \[font=Verdana\]\[color=#00ac46\]**Compatible:**\[/color\]\[/font\]
 
-\[color=#fdc500\]Compatible with exceptions.\[/color\]
-- [Inventory Interface Information Injector - Alternative Earth Magic Icon](https://www.nexusmods.com/skyrimspecialedition/mods/92170)
-\[color=#fdc500\](v1.0) - Identical files. Overwrite conflicting files with THICC's.\[/color\]
-\[color=#fdc500\](v1.1) - Conflicting files. Overwrite conflicting files with Alternate Earth Magic Icon's.\[/color\]
+\[font=Verdana\]\[color=#00ac46\]These mods contain files identical to THICC's. Overwrite order here is irrelevant.\[/color\]\[/font\]
+
+- [Arclight Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92733)
+- [Astral Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92079)
+- [Constellation Magic Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92145)
+- [Cosmic Spells - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92307)
+- [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010) \[color=#00ac46\](and any derivates)\[/color\]
+- [Dear Diary Dark Mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837) \[color=#00ac46\](and any derivates)\[/color\]
+- [Desecration Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92474)
+- [Diseases - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/94076)
+- [Dodo's Influential Custom Key Symbols](https://www.nexusmods.com/skyrimspecialedition/mods/98619)
+- [Elemental Destruction Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92209)
+- [Functional Fearsome Fists](https://www.nexusmods.com/skyrimspecialedition/mods/59460)
+- [Glamoril - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92292)
+- [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876)
+- [I4 - SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/85703)
+- [Inventory Interface Information Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702)
+- [Inventory Interface Information Injector - Alternative Earth Magic Icon](https://www.nexusmods.com/skyrimspecialedition/mods/92170) \[color=#fdc500\](only v1.0)\[/color\]
+- [Lunaris](https://www.nexusmods.com/skyrimspecialedition/mods/80852)
+- [Mark as Junk](https://www.nexusmods.com/skyrimspecialedition/mods/105245)
+- [More Craftable Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/44666)
+- [Necrom Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92406)
+- [Racial Abilities - I4 icons](https://www.nexusmods.com/skyrimspecialedition/mods/93219)
+- [Sandwiches of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/98881)
+- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
+- [SkyUI AIO Survival](https://www.nexusmods.com/skyrimspecialedition/mods/17601) \[color=#00ac46\](and any derivates)\[/color\]
+- [SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/37231) \[color=#00ac46\](and any derivates)\[/color\]
+- [Sonic Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92091)
+- [Sorcerer - A Staff and Scroll Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95196)
+- [Standing Stones - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/92780)
+- [Stellaris - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92301)
+- [Storm Calling Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92189)
+- [Tail Armors - I4 Tail Icons](https://www.nexusmods.com/skyrimspecialedition/mods/110374)
+- [The Witcher Signs - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92127)
+- [Wounds - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92614)
+
+\[font=Verdana\]\[color=#fdc500\]These mods contain files that conflict with THICC's. Load these mods after THICC.\[/color\]\[/font\]
+
+- [Inventory Interface Information Injector - Alternative Earth Magic Icon](https://www.nexusmods.com/skyrimspecialedition/mods/92170) \[color=#fdc500\](only v1.1)\[/color\]
+
+## \[font=Verdana\]\[color=#fdc500\]**Partially Compatible:**\[/color\]\[/font\]
+
+\[font=Verdana\]\[color=#fdc500\]These mods contain files that conflict with THICC's. Load THICC after these mods.\[/color\]\[/font\]
+
 - [SkyUI The Adventurer Theme](https://www.nexusmods.com/skyrimspecialedition/mods/35568)
 \[color=#fdc500\]SkyUI TAT's "Inventory Icons" installer option makes changes to `/interface/SkyUI/icons_item_psychosteve.swf` that don't play well with I4 mods, so this option is effectively incompatible. So long as you leave this option unchecked, or overwrite conflicting files with THICC's, SkyUI TAT is compatible.\[/color\]
 \[spoiler\]
-\[color=#fdc500\]Don't select this option when installing SkyUI The Adventurer Theme.\[/color\]
+\[color=#dc0000\]Don't select this option when installing SkyUI The Adventurer Theme.\[/color\]
 ![SkyUI TAT compatibility](https://i.imgur.com/hGYxjLC.png)
 \[/spoiler\]
 
-\[font=Verdana\]**Compatible, just overwrite any conflicting .SWF files with THICC's .SWF files**\[/font\]
+## \[font=Verdana\]\[color=#dc0000\]**Incompatible:**\[/color\]\[/font\]
 
-Identical files. Overwrite conflicting files with THICC's.
-
-- [Arclight Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92733) - Identical files. Overwrite conflicting files with THICC's.
-- [Astral Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92079) - Identical files. Overwrite conflicting files with THICC's.
-- [Constellation Magic Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92145) - Identical files. Overwrite conflicting files with THICC's.
-- [Cosmic Spells - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92307) - Identical files. Overwrite conflicting files with THICC's.
-- [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010) (or any derivates) - Identical files. Overwrite conflicting files with THICC's.
-- [Dear Diary Dark Mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837) (or any derivates) - Identical files. Overwrite conflicting files with THICC's.
-- [Desecration Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92474) - Identical files. Overwrite conflicting files with THICC's.
-- [Diseases - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/94076) - Identical files. Overwrite conflicting files with THICC's.
-- [Dodo's Influential Custom Key Symbols](https://www.nexusmods.com/skyrimspecialedition/mods/98619) - Identical files. Overwrite conflicting files with THICC's.
-- [Elemental Destruction Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92209) - Identical files. Overwrite conflicting files with THICC's.
-- [Functional Fearsome Fists](https://www.nexusmods.com/skyrimspecialedition/mods/59460) - Identical files. Overwrite conflicting files with THICC's.
-- [Glamoril - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92292) - Identical files. Overwrite conflicting files with THICC's.
-- [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876) - Identical files. Overwrite conflicting files with THICC's.
-- [I4 - SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/85703) - Identical files. Overwrite conflicting files with THICC's.
-- [Inventory Interface Information Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702) - Identical files. Overwrite conflicting files with THICC's.
-- [Lunaris](https://www.nexusmods.com/skyrimspecialedition/mods/80852) - Identical files. Overwrite conflicting files with THICC's.
-- [Mark as Junk](https://www.nexusmods.com/skyrimspecialedition/mods/105245) - Identical files. Overwrite conflicting files with THICC's.
-- [More Craftable Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/44666) - Identical files. Overwrite conflicting files with THICC's.
-- [Necrom Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92406) - Identical files. Overwrite conflicting files with THICC's.
-- [Racial Abilities - I4 icons](https://www.nexusmods.com/skyrimspecialedition/mods/93219) - Identical files. Overwrite conflicting files with THICC's.
-- [Sandwiches of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/98881) - Identical files. Overwrite conflicting files with THICC's.
-- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) - Identical files. Overwrite conflicting files with THICC's.
-- [SkyUI AIO Survival](https://www.nexusmods.com/skyrimspecialedition/mods/17601) (or any derivates) - Identical files. Overwrite conflicting files with THICC's.
-- [SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/37231) (or any derivates) - Identical files. Overwrite conflicting files with THICC's.
-- [Sonic Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92091) - Identical files. Overwrite conflicting files with THICC's.
-- [Sorcerer - A Staff and Scroll Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95196) - Identical files. Overwrite conflicting files with THICC's.
-- [Standing Stones - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/92780) - Identical files. Overwrite conflicting files with THICC's.
-- [Stellaris - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92301) - Identical files. Overwrite conflicting files with THICC's.
-- [Storm Calling Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92189) - Identical files. Overwrite conflicting files with THICC's.
-- [Tail Armors - I4 Tail Icons](https://www.nexusmods.com/skyrimspecialedition/mods/110374) - Identical files. Overwrite conflicting files with THICC's.
-- [The Witcher Signs - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92127) - Identical files. Overwrite conflicting files with THICC's.
-- [Wounds - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92614) - Identical files. Overwrite conflicting files with THICC's.
-
-\[font=Verdana\]**It just works! (probably)**\[/font\]
-
-- Everything else.
+\[font=Verdana\]\[color=#00ac46\]No known incompatibilities.\[/color\]\[/font\]
 
 \[center\]![Recommendations](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Recommendations.png)\[/center\]
 
@@ -102,7 +105,7 @@ Identical files. Overwrite conflicting files with THICC's.
 - [Alchemy Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/105386)
 
 \[center\]![Preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Preview.png)\[/center\]
-Shows the icons and provides the paths you need to reference them in I4. For mod authors or if you just want to see all the icons.
+Shown here are the icons included in THICC and the file and label paths you need to reference them in I4 or COCKS. For mod authors or if you just want to preview all the icons.
 
 \[font=Verdana\]**Every icon pack is stored in ".../interface/"**\[/font\]
 
@@ -343,7 +346,7 @@ x, `custom_food_potato`, `custom_banana`, `someonestolemysweetrole`, `custom_foo
 
 `custom_misc_chalice`, `custom_misc_collar`, `custom_misc_paragon`, `custom_misc_shard`, `custom_food_dumpling`, `custom_misc_sack_of_flour`, `custom_food_crostata`, `custom_food_butter`, `custom_food_yam`, `custom_armor_coat`,
 
-`custom_food_jelly`, `broken-don't use`, `custom_animal_horse`, `custom_book_schematics`, `custom_weapon_rod`, `custom_misc_dye`, `custom_misc_sigilstone`, `custom_tool_alembic`, `custom_misc_vase`, `custom_food_cookie`,
+`custom_food_jelly`, x, `custom_animal_horse`, `custom_book_schematics`, `custom_weapon_rod`, `custom_misc_dye`, `custom_misc_sigilstone`, `custom_tool_alembic`, `custom_misc_vase`, `custom_food_cookie`,
 
 `custom_tool_sextant`, `custom_misc_deck-of-cards`, `custom_misc_coin`, `custom_misc_shrine`, `custom_archeology`, `custom_misc_clam`, `custom_misc_coral`, `custom_misc_shell`, `custom_misc_pansyshell_sanddollar`, `custom_misc_starfish`,
 
@@ -406,29 +409,16 @@ If you know of any other mods that add icon packs, please let me know.
 
 \[center\]![Contributing](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Contributing.png)\[/center\]
 
-If anyone wants to share icons to be included in THICC, feel free to contact me.
+If anyone wants to share icons to be included in THICC, feel free to contact me through [Discord](https://discord.gg/zft8DmbfKv) or [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/90508?tab=posts).
 
 \[center\]![Thanks](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Thanks.png)\[/center\]
 
-- [Ashingda](https://www.nexusmods.com/skyrimspecialedition/users/10236085) for making icons and helping me figure out how to use FFdec.
-- Bethesda for making icons and Skyrim I guess.
-- [Delapouite](https://delapouite.com/) for making icons.
-- [Dodowingster](https://www.nexusmods.com/skyrimspecialedition/users/51260301) for making icons.
-- [Ezervane](https://www.nexusmods.com/skyrimspecialedition/users/22016239) for making icons.
-- [Fuzzlesz](https://www.nexusmods.com/skyrimspecialedition/users/16623) for porting I4 to 1.5.97 and helping me figure out how to use FFdec.
-- [game-icons.net](https://game-icons.net/) for making icons.
-- [IAmNotSimon](https://www.nexusmods.com/skyrimspecialedition/users/160117868) for making icons.
-- [Jindra Petřík](https://github.com/jindrapetrik) for making FFdec.
-- [Jelidity](https://www.nexusmods.com/users/4569617) for making icons and helping me figure out how to use FFdec.
-- [Lorc](https://lorcblog.blogspot.com/) for making icons.
-- [Parapets](https://www.nexusmods.com/skyrimspecialedition/users/39501725) for making Inventory Interface Information Injector.
-- [PRieST47](https://www.nexusmods.com/skyrimspecialedition/users/927130) for making icons and helping me figure out how to use FFdec.
-- [psychosteve](https://www.nexusmods.com/skyrim/users/37741) for making icons and SkyUI.
-- [schlangster](https://www.nexusmods.com/skyrimspecialedition/users/28794) for making SkyUI.
-- [TomeOfDread](https://www.nexusmods.com/skyrimspecialedition/users/136745758) for helping me figure out how to use FFdec.
-- The SkyUI Team for making SkyUI.
-- [uranreactor](https://www.nexusmods.com/skyrimspecialedition/users/1863120) for helping me figure out how to use FFdec.
-- [WhereDeadAngelsLie](https://www.nexusmods.com/skyrimspecialedition/users/9170915) for making icons.
+- [Ashingda](https://www.nexusmods.com/users/10236085), [Delapouite](https://delapouite.com/), [Dodowingster](https://www.nexusmods.com/users/51260301), [Ecskrillos](https://www.nexusmods.com/users/22016239), [Gaetan/WhereDeadAngelsLie](https://www.nexusmods.com/users/9170915), [Horf/PRieST47](https://www.nexusmods.com/users/927130), [IAmNotSimon](https://www.nexusmods.com/users/160117868), [Jelidity](https://www.nexusmods.com/users/4569617), [Lorc](https://lorcblog.blogspot.com/), [Psychosteve](https://www.nexusmods.com/users/37741), and everyone else who made all the amazing icons used here!
+- [Parapets](https://www.nexusmods.com/users/39501725) for making Inventory Interface Information Injector and Constructible Object Custom Keyword System.
+- [Fuzzlesz](https://www.nexusmods.com/users/16623) and [MeridianoRus](https://www.nexusmods.com/users/9609463) for porting I4 and COCKS to other versions.
+- [Jindra Petřík](https://github.com/jindrapetrik) for making JPEXS FFdec.
+- [schlangster](https://www.nexusmods.com/users/28794) and the SkyUI Team for making SkyUI.
+- [Ashingda](https://www.nexusmods.com/users/10236085), [Fuzzlesz](https://www.nexusmods.com/users/16623), [Gaetan/WhereDeadAngelsLie](https://www.nexusmods.com/users/9170915), [Horf/PRieST47](https://www.nexusmods.com/users/927130), [Jelidity](https://www.nexusmods.com/users/4569617), [TomeOfDread](https://www.nexusmods.com/users/136745758), [uranreactor](https://www.nexusmods.com/users/1863120), and everyone else who helped me learn how to use JPEXS FFdec and flash modding in general.
 
 \[center\][![linktree](https://i.imgur.com/jOQE4n8.png)](https://linktr.ee/groundaura)[\[font=Verdana\]\[color=#ffffff\]**Find me on Linktree**\[/font\]\[/color\]](https://linktr.ee/groundaura)\[/center\]
 \[center\][![discord](https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_40px.png?raw=true)](https://discord.gg/zft8DmbfKv)\[/center\]
