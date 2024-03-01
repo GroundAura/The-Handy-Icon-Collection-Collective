@@ -6,19 +6,19 @@
 
 ### \[font=Verdana\]**I4ForcefulTongueShout/I4ForcefulTongueShout.swf**\[/font\]
 
-![icon preview]()
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/Komegaki/I4%20Shout%20Icons%20Overhaul%20v1.1%20(I4ForcefulTongueShout%5EI4ForcefulTongueShout.swf).png)
 
 `Mirror_Alt`
 
 ### \[font=Verdana\]**I4OrigFormShout/I4OrigFormShout.swf**\[/font\]
 
-![icon preview]()
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/Komegaki/I4%20Shout%20Icons%20Overhaul%20v1.1%20(I4OrigFormShout%5EI4OrigFormShout.swf).png)
 
 `Mirror_Alt`
 
 ### \[font=Verdana\]**I4ShoutIconsOverhaul/I4ShoutIconsOverhaul.swf**\[/font\]
 
-![icon preview]()
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/Komegaki/I4%20Shout%20Icons%20Overhaul%20v1.1%20(I4ShoutIconsOverhaul%5EI4ShoutIconsOverhaul.swf).png)
 
 x, `Animal`, `Life`, `Loyal`, `Fade`, `Earth`, `Hero`, `Sky`, `Wind`, `Weapon`,
 
@@ -28,6 +28,6 @@ x, `Animal`, `Life`, `Loyal`, `Fade`, `Earth`, `Hero`, `Sky`, `Wind`, `Weapon`,
 
 ### \[font=Verdana\]**I4WyrmstoothShout/I4WyrmstoothShout.swf**\[/font\]
 
-![icon preview]()
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/Komegaki/I4%20Shout%20Icons%20Overhaul%20v1.1%20(I4WyrmstoothShout%5EI4WyrmstoothShout.swf).png)
 
 `Mirror_Alt`

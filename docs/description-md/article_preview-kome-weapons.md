@@ -6,7 +6,7 @@
 
 ### \[font=Verdana\]**I4WeaponIconsOverhaul/I4WeaponIconsOverhaul.swf**\[/font\]
 
-![icon preview]()
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/Komegaki/I4%20Weapon%20Icons%20Overhaul%20v2.2%20(I4WeaponIconsOverhaul%5EI4WeaponIconsOverhaul.swf)%20pt.1.png)
 
 x, `Shuriken`, `Unarmed`, `Dagger`, `Claw`, `Kunai`, `RevDagger`, `Sai`, `Sword`, `Katana`,
 
@@ -20,6 +20,6 @@ x, `Shuriken`, `Unarmed`, `Dagger`, `Claw`, `Kunai`, `RevDagger`, `Sai`, `Sword`
 
 `Warhammer`, `Bladestaff`, `Club2H`, `Mace2H`, `Spear`, `Bow`, `Greatbow`, `Shortbow`, `Crossbow1H`, `Crossbow2H`,
 
-![icon preview]()
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/Komegaki/I4%20Weapon%20Icons%20Overhaul%20v2.2%20(I4WeaponIconsOverhaul%5EI4WeaponIconsOverhaul.swf)%20pt.2.png)
 
 `Gun1H`, `Gun2H`, `Saber1H`, `Chakram1H`, `Chakram2H`, `MassiveAxe`, `MassiveHammer`

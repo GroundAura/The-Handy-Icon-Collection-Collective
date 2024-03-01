@@ -407,6 +407,8 @@ Icons that are **not** included in THICC, for permissions or other reasons. Thes
 Previews of these icons are provided (on separate articles) for your convenience.
 
 - [BOOBIES Immersive Icons](https://www.nexusmods.com/skyrimspecialedition/mods/89241) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6445))
+- [I4 Shout Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/107334) ([Preview](https://www.nexusmods.com/skyrimspecialedition/mods/107334))
+- [I4 Weapon Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/106432) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6491))
 - [Skyrim Arrow Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/82477) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6446))
 
 If you know of any other mods that add icon packs, please let me know.

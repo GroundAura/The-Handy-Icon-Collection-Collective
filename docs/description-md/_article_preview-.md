@@ -1,4 +1,4 @@
-# \[center\][\[font=Verdana\]\[color=#ffffff\]\[u\]**ModName**\[/u\]\[/font\]\[/color\]](https://www.nexusmods.com/skyrimspecialedition/mods/NexusID)\[/center\]
+# \[center\][\[font=Verdana\]\[color=#ffffff\]\[u\]**ModName**\[/u\]\[/font\]\[/color\]](URL)\[/center\]
 
 \[center\]![Preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Preview.png)\[/center\]
 
