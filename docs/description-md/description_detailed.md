@@ -133,11 +133,11 @@ x, `food_egg`, `food_magicegg`, `food_cookedegg`, `misc_soap`, `misc_scissors`, 
 
 `armor_horns`, `misc_candle`, `misc_cauldron`, `misc_comb`, `armor_wings`, `armor_crown`, `misc_rock`, `misc_cowskull`, `misc_birdskull`, `misc_balancescales`,
 
-`misc_hourglass`, `armor_hat`, `misc_fossil`, `armor_hoof`, `misc_cutlery`, `misc_chest`, `misc_mirror`, `misc_gamepiece`, `armor_pointyhat`, x,
+`misc_hourglass`, `armor_hat`, x, `armor_hoof`, `misc_cutlery`, `misc_chest`, `misc_mirror`, `misc_gamepiece`, `armor_pointyhat`, x,
 
 `misc_quillinkwell`, `misc_quill`, `misc_inkwell`, `misc_scalpel`, `food_apple`, `misc_skeletonkey`, `misc_spyglass`, `misc_teapot`, `weapon_kunai`, `weapon_bomb`,
 
-`magic_poison`, `armor_halo`, x, x, x, x, x, x, x, x
+`magic_poison`, `armor_halo`, `misc_fossil`, x, x, x, x, x, x, x
 
 ### \[font=Verdana\]**AIT/MoreIcons/icons.swf**\[/font\]
 
