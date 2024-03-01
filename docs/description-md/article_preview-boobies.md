@@ -174,5 +174,3 @@ x, `weapon_giantsword`, `weapon_scythe`, `weapon_rapier`, `weapon_saber`, `weapo
 `weapon_katana`, `weapon_lance`, `weapon_knuckles`, `weapon_quarterstaff`, `weapon_trident`, `weapon_wakizashi`, `weapon_tanto`, `weapon_glaive`, `weapon_whip`, `weapon_bladestaff`
 
 \[/spoiler\]
-
-Why it's not included: Permissions.
