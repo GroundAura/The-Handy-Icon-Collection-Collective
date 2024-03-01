@@ -1,5 +1,9 @@
 # The Handy Icon Collection Collective - Changelog
 
+## Version 1.6.1
+
+- **FOMOD:** Added FOMOD installer. Separated licenses into an installer option.
+
 ## Version 1.6.0
 
 - **Icon SWF (`interface/AIT/GameIcons/icons.swf`):** Fixed `misc_fossil` icon not rendering.
