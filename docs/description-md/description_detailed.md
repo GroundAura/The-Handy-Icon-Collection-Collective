@@ -406,10 +406,25 @@ x, `weapon_spear`, `weapon_javelin`, `weapon_pike`, `weapon_halberd`, `weapon_ra
 Icons that are **not** included in THICC, for permissions or other reasons. These icons can only be utilized when additional mods are installed.
 Previews of these icons are provided (on separate articles) for your convenience.
 
+- [Abyss - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/104957)
+- [Arcane - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/104577)
+- [Arclight - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/104642)
+- [Bloodmoon - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/104321)
 - [BOOBIES Immersive Icons](https://www.nexusmods.com/skyrimspecialedition/mods/89241) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6445))
-- [I4 Shout Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/107334) ([Preview](https://www.nexusmods.com/skyrimspecialedition/mods/107334))
+- [Desecration - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/104411)
+- [Flames of Coldharbour - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/104559)
+- [I4 Shout Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/107334) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6490))
 - [I4 Weapon Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/106432) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6491))
+- [Inquisition - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/106758)
+- [Lunaris - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/105175)
+- [Natura - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/105430)
+- [Necrom - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/104745)
+- [Necrotic - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/104437)
+- [Sacrosanct - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/105177)
+- [Scion - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/105310)
 - [Skyrim Arrow Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/82477) ([Preview](https://www.nexusmods.com/skyrimspecialedition/articles/6446))
+- [Stellaris - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/105055)
+- [Vulcano - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/104851)
 
 If you know of any other mods that add icon packs, please let me know.
 

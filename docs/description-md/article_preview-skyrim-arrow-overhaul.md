@@ -2,7 +2,7 @@
 
 \[center\]![Preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Preview.png)\[/center\]
 
-**Icons included in SAO as of v1.25:**
+**Icons included in Skyrim Arrow Overhaul as of v1.25:**
 
 ### \[font=Verdana\]**I4IconAddon/SAO.swf**\[/font\]
 
