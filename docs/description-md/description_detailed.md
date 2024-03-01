@@ -118,7 +118,7 @@ Shown here are the icons included in THICC and the file and label paths you need
 ### \[font=Verdana\]**AIT/GameIcons/icons.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(AIT%5EGameIcons%5Eicons.swf)%20pt.1.png)
-![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(AIT%5EGameIcons%5Eicons.swf)%20pt.2.png)
+
 x, `food_egg`, `food_magicegg`, `food_cookedegg`, `misc_soap`, `misc_scissors`, `misc_barrel`, `misc_cloth`, `misc_basket`, `misc_bucket`,
 
 `armor_tail`, `misc_tusk`, `misc_claws`, `misc_birdclaw`, `misc_feather`, `armor_wing`, `misc_jaw`, `misc_fangs`, `misc_bone`, `misc_heart`,
@@ -130,6 +130,8 @@ x, `food_egg`, `food_magicegg`, `food_cookedegg`, `misc_soap`, `misc_scissors`, 
 `weapon_chakram`, x, `misc_bonepelvis`, x, `misc_compass`, `weapon_saw`, x, `weapon_pistol`, `weapon_saber`, `weapon_hatchet`,
 
 `weapon_shuriken`, `weapon_sickle`, `weapon_sai`, `misc_horn`, `misc_card`, `armor_ribbon`, `misc_anvil`, `misc_archerytarget`, `misc_bandage`, `weapon_blunderbuss`,
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(AIT%5EGameIcons%5Eicons.swf)%20pt.2.png)
 
 `armor_horns`, `misc_candle`, `misc_cauldron`, `misc_comb`, `armor_wings`, `armor_crown`, `misc_rock`, `misc_cowskull`, `misc_birdskull`, `misc_balancescales`,
 
@@ -328,7 +330,6 @@ x, `gourmet_bread`, `gourmet_cheese`, `gourmet_drugs`, `gourmet_fish`, `gourmet_
 ### \[font=Verdana\]**Muetzl/icons.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(Muetzl%5Eicons.swf)%20pt.1.png)
-![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(Muetzl%5Eicons.swf)%20pt.2.png)
 
 x, `custom_food_potato`, `custom_banana`, `someonestolemysweetrole`, `custom_food_leek`, `custom_food_tomato`, `custom_treesap`, `custom_pear`, `custom_gourd_pumpkin`, `custom_armor_chefs-hat`,
 
@@ -341,6 +342,8 @@ x, `custom_food_potato`, `custom_banana`, `someonestolemysweetrole`, `custom_foo
 `custom_misc_warhorn`, `custom_misc_pot`, `custom_misc_urn`, `custom_misc_cup`, `custom_misc_tankard`, `custom_misc_ladle`, `custom_misc_charcoal-stick`, `custom_misc_roll_of_paper`, `custom_misc_spigot`, `custom_misc_drinkinghorn`,
 
 `custom_misc_goblet`, `custom_misc_pitcher`, `custom_misc_bottleship`, `custom_misc_oar`, `custom_misc_bellows`, `custom_misc_tongs`, `custom_misc_broom`, `custom_misc_clothesiron`, `custom_misc_flag`, `custom_misc_jug`,
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(Muetzl%5Eicons.swf)%20pt.2.png)
 
 `custom_armor_torc`, `custom_misc_charcoal-chunk`, `custom_misc_flute`, `custom_misc_drum`, `custom_misc_stonetablet`, `custom_misc_dwemercore`, `custom_misc_dwemercube`, `custom_misc_plate`, `custom_misc_pan`, `custom_misc_pitchfork`,
 
@@ -357,7 +360,6 @@ x, `custom_food_potato`, `custom_banana`, `someonestolemysweetrole`, `custom_foo
 ### \[font=Verdana\]**SkyUI/icons_item_psychosteve.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(SkyUI%5Eicons_item_psychosteve.swf)%20pt.1.png)
-![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(SkyUI%5Eicons_item_psychosteve.swf)%20pt.2.png)
 
 x, `default_weapon`, `weapon_sword`, `weapon_greatsword`, `weapon_daedra`, `weapon_dagger`, `weapon_waraxe`, `weapon_battleaxe`, `weapon_mace`, `weapon_hammer`,
 
@@ -371,6 +373,8 @@ x, `default_weapon`, `weapon_sword`, `weapon_greatsword`, `weapon_daedra`, `weap
 
 `default_scroll`, `default_book`, `default_book_read`, `book_tome`, `book_tome_read`, `book_journal`, `book_note`, `book_map`, `default_food`, `food_wine`,
 
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(SkyUI%5Eicons_item_psychosteve.swf)%20pt.2.png)
+
 `food_beer`, `default_ingredient`, `default_key`, `key_house`, `default_potion`, `potion_health`, `potion_stam`, `potion_magic`, `potion_poison`, `potion_frost`,
 
 `potion_fire`, `potion_shock`, `default_misc`, `misc_artifact`, `misc_clutter`, `misc_lockpick`, x, `soulgem_empty`, `soulgem_partial`, `soulgem_full`,
@@ -379,9 +383,9 @@ x, `default_weapon`, `weapon_sword`, `weapon_greatsword`, `weapon_daedra`, `weap
 
 `misc_wood`, `misc_remains`, `misc_trollskull`, `misc_torch`, `misc_goldsack`, `misc_gold`, `misc_dragonclaw`, `default_alteration`, `default_illusion`, `default_destruction`,
 
-`default_conjuration`, `default_restoration`, `default_shout`, `default_power`, `default_effect`, `magic_fire`, `magic_frost`, `magic_shock`, x, x,
+`default_conjuration`, `default_restoration`, `default_shout`, `default_power`, `default_effect`, `magic_fire`, `magic_frost`, `magic_shock`, `weapon_spear`, `weapon_javelin`,
 
-x, x, x, x, x, x, x, x, x
+`weapon_pike`, `weapon_halberd`, `weapon_rapier`, `weapon_quarterstaff`, `weapon_claw`, `weapon_whip`, `weapon_katana`, `weapon_scythe`, `weapon_gun`
 
 ### \[font=Verdana\]**SkyUI_Weapons_Pack/icons.swf**\[/font\]
 
@@ -415,7 +419,7 @@ If you want to learn how to create icons and use them, I am planning on making a
 
 \[center\]![Thanks](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/banners/Thanks.png)\[/center\]
 
-- [Ashingda](https://www.nexusmods.com/users/10236085), [Delapouite](https://delapouite.com/), [Dodowingster](https://www.nexusmods.com/users/51260301), [Ecskrillos](https://www.nexusmods.com/users/22016239), [Gaetan/WhereDeadAngelsLie](https://www.nexusmods.com/users/9170915), [Horf/PRieST47](https://www.nexusmods.com/users/927130), [IAmNotSimon](https://www.nexusmods.com/users/160117868), [Jelidity](https://www.nexusmods.com/users/4569617), [Lorc](https://lorcblog.blogspot.com/), [Psychosteve](https://www.nexusmods.com/users/37741), and everyone else who made all the amazing icons used here!
+- [Ashingda](https://www.nexusmods.com/users/10236085), [Delapouite](https://delapouite.com/), [Dodowingster](https://www.nexusmods.com/users/51260301), [Ecskrillos](https://www.nexusmods.com/users/22016239), [Gaetan/WhereDeadAngelsLie](https://www.nexusmods.com/users/9170915), [Horf/PRieST47](https://www.nexusmods.com/users/927130), [IAmNotSimon](https://www.nexusmods.com/users/160117868), [Jelidity](https://www.nexusmods.com/users/4569617), [Komegaki/Genskicc](https://www.nexusmods.com/skyrimspecialedition/users/80113953), [Lorc](https://lorcblog.blogspot.com/), [Psychosteve](https://www.nexusmods.com/users/37741), and everyone else who made all the amazing icons used here!
 - [Parapets](https://www.nexusmods.com/users/39501725) for making Inventory Interface Information Injector and Constructible Object Custom Keyword System.
 - [Fuzzlesz](https://www.nexusmods.com/users/16623) and [MeridianoRus](https://www.nexusmods.com/users/9609463) for porting I4 and COCKS to other versions.
 - [Jindra Petřík](https://github.com/jindrapetrik) for making JPEXS FFdec.
