@@ -1,5 +1,9 @@
 # The Handy Icon Collection Collective - Changelog
 
+## Version 1.6.2
+
+- **Icon SWF (`interface/Muetzl/icons.swf`):** Fixed several icon rendering issues.
+
 ## Version 1.6.1
 
 - **FOMOD:** Added FOMOD installer. Separated licenses into an installer option.
