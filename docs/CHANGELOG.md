@@ -1,5 +1,29 @@
 # The Handy Icon Collection Collective - Changelog
 
+## Version 1.7.0
+
+- **Icon SWF (`interface/KIT/Alchemy.swf`):** Added icon collection.
+
+- **Icon SWF (`interface/KIT/Armor.swf`):** Added icon collection.
+
+- **Icon SWF (`interface/KIT/BoundEquipment-Overhaul.swf`):** Added icon collection.
+
+- **Icon SWF (`interface/KIT/BoundEquipment-SkyUI.swf`):** Added icon collection.
+
+- **Icon SWF (`interface/KIT/Food.swf`):** Added icon collection.
+
+- **Icon SWF (`interface/KIT/Misc.swf`):** Added icon collection.
+
+- **Icon SWF (`interface/KIT/Potions-Full.swf`):** Added icon collection.
+
+- **Icon SWF (`interface/KIT/Powers.swf`):** Added icon collection.
+
+- **Icon SWF (`interface/KIT/Spells.swf`):** Added icon collection.
+
+- **Icon SWF (`interface/KIT/Staves.swf`):** Added icon collection.
+
+- **Icon SWF (`interface/KIT/Weapons.swf`):** Added icon collection.
+
 ## Version 1.6.1
 
 - **Icon SWF (`interface/Muetzl/icons.swf`):** Fixed several icon rendering issues.
