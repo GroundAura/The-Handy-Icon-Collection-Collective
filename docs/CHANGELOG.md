@@ -24,6 +24,8 @@
 
 - **Icon SWF (`interface/KIT/Weapons.swf`):** Added icon collection.
 
+- **Icon SWF (`interface/Muetzl/icons.swf`):** Fixed more icon rendering issues.
+
 ## Version 1.6.1
 
 - **Icon SWF (`interface/Muetzl/icons.swf`):** Fixed several icon rendering issues.
