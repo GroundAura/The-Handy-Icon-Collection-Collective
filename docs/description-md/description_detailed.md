@@ -295,6 +295,108 @@ x, `race_altmer`, `race_argonian`, `race_bosmer`, `race_breton`, `race_dunmer`, 
 
 `fff_brawlinggauntlet`
 
+### \[font=Verdana\]**KIT/Alchemy.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EAlchemy.swf).png)
+
+x, `ingredient_plant`, `ingredient_flower`, `ingredient_dragonfly`, `ingredient_butterflywing`, `ingredient_sharpteeth`, `ingredient_egg`, `ingredient_feather`, `ingredient_taproot`, `ingredient_heart`,
+
+`ingredient`, `ingredient_berry`, `ingredient_tusk`, `ingredient_crabclaw`, `ingredient_bones`, `ingredient_eyeball`, `ingredient_venomsac`, `ingredient_honeycomb`, `ingredient_fatblob`, `ingredient_crystal`,
+
+`ingredient_poison`, `ingredient_antler`, `ingredient_bug`, `ingredient_beak`, x, x, x, x, x, x
+
+### \[font=Verdana\]**KIT/Armor.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EArmor.swf).png)
+
+x, `armor_head`, `lightarmor_head`, `accessory_ring`, `accessory_amulet`, `clothing_robes`, `lightarmor_body`, x, `clothing_feet`, `clothing_pouch`,
+
+`accessory_circlet`, `clothing_mask`, `armor_shield`, `accessory_backpack`, x, x, x, x, x, x
+
+### \[font=Verdana\]**KIT/BoundEquipment-Overhaul.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EBoundEquipment-Overhaul.swf).png)
+
+x, `bound_battleaxe_2h`, `bound_bow_2h`, `bound_dagger_1h`, `bound_greatsword_2h`, `bound_mace_1h`, `bound_shield_heavy`, `bound_sword_1h`, `bound_waraxe_1h`, `bound_warhammer_2h`,
+
+`bound_shield_light`, `bound_claw_1h`, `bound_halberd_2h`, `bound_katana_1h`, `bound_pike_2h`, `bound_quarterstaff_2h`, `bound_rapier_1h`, `bound_whip_1h`, x, x
+
+### \[font=Verdana\]**KIT/BoundEquipment-SkyUI.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EBoundEquipment-SkyUI.swf).png)
+
+x, `bound_battleaxe_2h`, `bound_bow_2h`, `bound_dagger_1h`, `bound_greatsword_2h`, `bound_mace_1h`, `bound_shield_heavy`, `bound_sword_1h`, `bound_waraxe_1h`, `bound_warhammer_2h`,
+
+`bound_shield_light`, `bound_claw_1h`, `bound_halberd_2h`, `bound_katana_1h`, `bound_pike_2h`, `bound_quarterstaff_2h`, `bound_rapier_1h`, `bound_whip_1h`, x, x
+
+### \[font=Verdana\]**KIT/Food.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EFood.swf).png)
+
+x, `food_bread`, `food_fish`, `food_rawmeat`, `food_cookedmeat`, `food_stew`, `food_sweetroll`, `food_apple`, `food_mushroom`, `food_leek`,
+
+`food_cheese`, `food_beer`, `food_wine`, `food_flagon`, `food_pie`, `food_skooma`, `food_sujamma`, `food_sleepingsap`, `food_ingrsack`, x
+
+### \[font=Verdana\]**KIT/Misc.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EMisc.swf)%20pt.1.png)
+
+x, `book_oghma`, `book_dreamstride`, `misc_bowl`, `book_note`, `book_skillbook`, `tool_shovel`, `tool_broom`, `book_blackbook`, `misc_dragonbones`,
+
+`misc_dragonscales`, `misc_dragonstone`, `misc_firewood`, `misc_buildingmaterial`, `misc_cookingpot`, `misc_plate`, `book_bounty`, `misc_default`, `misc_welkyndstone`, `soulgem_azura`,
+
+`misc_linen`, `misc_tusk`, `misc_document`, `misc_burntbook`, `book_map`, `misc_artifactdaedra`, `misc_artifactaedra`, `misc_brokenweapon`, `misc_bedroll`, `misc_campfire`,
+
+`misc_cookpot`, `misc_tent`, `misc_basket`, `misc_jar`, `misc_cup`, `misc_fork`, `misc_spoon`, `misc_knife`, `misc_inkwell`, `misc_pot`,
+
+`misc_lute`, `misc_flute`, `misc_drum`, `misc_bucket`, `misc_goblet`, `misc_sack`, `misc_horn`, `misc_chitin`, `misc_artifactdwarven`, `misc_hipbone`,
+
+`misc_bowlfull`, `misc_candlestick`, `misc_treasurechest`, `soulgem_azurabroken`, `misc_doll`, `misc_elderscroll`, `misc_coinpurse`, `book_powertome`, `misc_hammer`, `misc_soap`,
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EMisc.swf)%20pt.2.png)
+
+`book_notedaedric`, `book_songbook`, `misc_clutter`, `misc_lantern`, `misc_torch`, `soulgem_varla`
+
+### \[font=Verdana\]**KIT/Potions-Full.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EPotions-Full.swf).png)
+
+`potion_shield`, `potion_triangle`, `potion_square`, `potion_enhance`, `potion_other`, `poison_debuff`, `potion_special`
+
+### \[font=Verdana\]**KIT/Powers.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EPowers.swf).png)
+
+x, `magic_nightingale`, `magic_darkbrotherhood`, `magic_karstaag`, `magic_college`, `magic_configure`, `magic_racepower`, `magic_daedrichelmet`, `magic_enhanceweapon`, `magic_teleport`,
+
+`magic_command`, `magic_vampirefangs`, `magic_slowtime`, `special_basicattack`, `power_vampirelord`, `power_transform`, `power_doomstone`, `magic_dodohorse`, `magic_healinghands`, `magic_enhancecasting`
+
+### \[font=Verdana\]**KIT/Spells.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5ESpells.swf).png)
+
+x, `default_alteration`, `default_conjuration`, `default_destruction`, `magic_fire`, `magic_frost`, `magic_shock`, `default_illusion`, `default_restoration`, `magic_resistance`,
+
+`magic_debuff`, `magic_cloak`, `rune_fire`, `rune_frost`, `rune_ash`, `rune_illusion`, `rune_paralysis`, `rune_poison`, `rune_shock`, `rune_sun`,
+
+`magic_etheral`, `magic_poison`, `magic_sun`, `magic_brokenshield`, `magic_brokensword`, `magic_paralyze_alte`, `magic_weight`, `magic_sight`, `magic_sacrifice`, `magic_paralyze_illu`,
+
+`magic_cloak_alte`, `magic_cloak_rest`, `magic_cloak_fire`, `magic_cloak_frost`, `magic_cloak_shock`, `magic_paralyze`, `magic_blood`, `magic_special`, `magic_wind`, x
+
+### \[font=Verdana\]**KIT/Staves.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EStaves.swf).png)
+
+x, `staff_alteration`, `staff_conjuration`, `staff_destruction`, `staff_illusion`, `staff_restoration`, `Forsworn`, x, x, x
+
+`Silver`, x, x, x, x, x, x, x, x, x
+
+### \[font=Verdana\]**KIT/Weapons.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EWeapons.swf).png)
+
+`ammo_arrow`, `ammo_bolt`, `ammo_greatarrow`, `ammo_elementalarrow`, `ammo_javelin`, `ammo_bulletcircle`, `ammo_bomb`
+
 ### \[font=Verdana\]**Magus/Gourmet/icons.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(Magus%5EGourmet%5Eicons.swf).png)
