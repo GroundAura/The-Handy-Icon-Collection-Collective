@@ -155,6 +155,16 @@ x, `misc_lantern`, `misc_drop`, `clothing_crown`, `tool_hammer`, `tool_shovel`, 
 
 `weapon_bullet`, `armor_bandana`, `misc_barrel`, `misc_crate`
 
+### \[font=Verdana\]**AlaxFoodExpansionIcons/AlaxFoodExpansionIcons.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(AlaxFoodExpansionIcons%5EAlaxFoodExpansionIcons.swf).png)
+
+x, `food_apple_1`, `food_bread_1`, `food_bread_2`, `food_bread_3`, `food_fish_1`, `food_mushroom_1`, `food_nut_1`, `food_onion_1`, `food_strawberry_1`,
+
+`food_pear_1`, `food_pie_1`, `food_pie_2`, `food_potato_1`, `food_pumpkin_1`, `food_bellpepper_1`, `food_carrot_1`, `food_gourd_1`, `food_grape_1`, `food_pickle_1`,
+
+`food_chickenleg_1`, `food_turnip_1`, `food_cheese_1`, `food_cheese_2`, `food_meat_1`, `food_meat_2`, `food_sausage_1`, x, x, x
+
 ### \[font=Verdana\]**Dodo/powers.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(Dodo%5Epowers.swf).png)

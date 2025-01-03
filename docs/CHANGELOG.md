@@ -2,6 +2,8 @@
 
 ## Version 1.7.0
 
+- **Icon SWF (`interface/AlaxFoodExpansionIcons/AlaxFoodExpansionIcons.swf`):** Added icon collection
+
 - **Icon SWF (`interface/KIT/Alchemy.swf`):** Added icon collection.
 
 - **Icon SWF (`interface/KIT/Armor.swf`):** Added icon collection.
