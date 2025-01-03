@@ -441,7 +441,7 @@ x, `custom_food_potato`, `custom_banana`, `someonestolemysweetrole`, `custom_foo
 
 `custom_ingredient_lichen`, `custom_ingredient_pearl`, `custom_ingredient_beehive-husk`, `custom_food_honey`, `custom_ingredient_moonsugar`, `custom_animal_hawk`, `custom_ingredient_dwemer-oil`, `custom_misc_bust`, `misc_custom_statue`, `custom_misc_sapling`,
 
-`custom_misc_warhorn`, `custom_misc_pot`, `custom_misc_urn`, `custom_misc_cup`, `custom_misc_tankard`, `custom_misc_ladle`, `custom_misc_charcoal-stick`, `custom_misc_roll_of_paper`, `custom_misc_spigot`, `custom_misc_drinkinghorn`,
+`custom_misc_warhorn`, `custom_misc_pot`, `custom_misc_urn`, `custom_misc_cup`, `custom_misc_tankard`, `custom_misc_ladle`, `custom_misc_charcoal-stick`, x, `custom_misc_spigot`, `custom_misc_drinkinghorn`,
 
 `custom_misc_goblet`, `custom_misc_pitcher`, `custom_misc_bottleship`, `custom_misc_oar`, `custom_misc_bellows`, `custom_misc_tongs`, `custom_misc_broom`, `custom_misc_clothesiron`, `custom_misc_flag`, `custom_misc_jug`,
 
@@ -449,15 +449,19 @@ x, `custom_food_potato`, `custom_banana`, `someonestolemysweetrole`, `custom_foo
 
 `custom_armor_torc`, `custom_misc_charcoal-chunk`, `custom_misc_flute`, `custom_misc_drum`, `custom_misc_stonetablet`, `custom_misc_dwemercore`, `custom_misc_dwemercube`, `custom_misc_plate`, `custom_misc_pan`, `custom_misc_pitchfork`,
 
-`custom_misc_chalice`, `custom_misc_collar`, `custom_misc_paragon`, `custom_misc_shard`, `custom_food_dumpling`, `custom_misc_sack_of_flour`, `custom_food_crostata`, `custom_food_butter`, `custom_food_yam`, `custom_armor_coat`,
+`custom_misc_chalice`, `custom_misc_collar`, `custom_misc_paragon`, `custom_misc_shard`, `custom_food_dumpling`, x, `custom_food_crostata`, `custom_food_butter`, `custom_food_yam`, `custom_armor_coat`,
 
 `custom_food_jelly`, x, `custom_animal_horse`, `custom_book_schematics`, `custom_weapon_rod`, `custom_misc_dye`, `custom_misc_sigilstone`, `custom_tool_alembic`, `custom_misc_vase`, `custom_food_cookie`,
 
-`custom_tool_sextant`, `custom_misc_deck-of-cards`, `custom_misc_coin`, `custom_misc_shrine`, `custom_archeology`, `custom_misc_clam`, `custom_misc_coral`, `custom_misc_shell`, `custom_misc_pansyshell_sanddollar`, `custom_misc_starfish`,
+`custom_tool_sextant`, `custom_misc_deck-of-cards`, `custom_misc_coin`, `custom_misc_shrine`, x, `custom_misc_clam`, `custom_misc_coral`, `custom_misc_shell`, `custom_misc_pansyshell_sanddollar`, x,
 
 `custom_misc_sphere`, `custom_instrument_hurdy-gurdy`, `custom_armor_bracelet`, `custom_armor_dress`, `custom_book_song`, `custom_misc_jaw`, `custom_misc_seeds`, `custom_instrument_ocarina`, `custom_photography`, `custom_zelda_triforce`,
 
-`custom_zelda_kinstone`, `custom_misc_sword-broken`, `custom_misc_shield-broken`, `custom_instrument_lyra`, `custom_weapon_grapple`, `custom_weapon_zombie`, `custom_weapon_cane`, `custom_weapon_morningstar`, `custom_misc_scabbard`
+`custom_zelda_kinstone`, `custom_misc_sword-broken`, `custom_misc_shield-broken`, `custom_instrument_lyra`, `custom_weapon_grapple`, `custom_weapon_zombie`, `custom_weapon_cane`, `custom_weapon_morningstar`, `custom_misc_scabbard`, `custom_misc_roll_of_paper`,
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(Muetzl%5Eicons.swf)%20pt.3.png)
+
+`custom_misc_sack_of_flour`, `custom_archeology`, `custom_misc_starfish`
 
 ### \[font=Verdana\]**SkyUI/icons_item_psychosteve.swf**\[/font\]
 
