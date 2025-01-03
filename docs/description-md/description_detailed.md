@@ -305,6 +305,12 @@ x, `race_altmer`, `race_argonian`, `race_bosmer`, `race_breton`, `race_dunmer`, 
 
 `fff_brawlinggauntlet`
 
+### \[font=Verdana\]**JunkIt/icons.swf**\[/font\]
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(JunkIt%5Eicons.swf).png)
+
+`trash`
+
 ### \[font=Verdana\]**KIT/Alchemy.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EAlchemy.swf).png)

@@ -54,6 +54,7 @@ idea/secret/
 #**/AIT/Aura/icons.swf
 #**/AIT/GameIcons/icons.swf
 #**/AIT/MoreIcons/icons.swf
+#**/AlaxFoodExpansionIcons/AlaxFoodExpansionIcons.swf
 #**/Dodo/powers.swf
 #**/Dodo/skills.swf
 #**/I4IconAddon/icons.swf
@@ -75,7 +76,7 @@ idea/secret/
 **/IAmNotSimon/Time.swf
 **/IAmNotSimon/WitcherSigns.swf
 **/IAmNotSimon/Wounds.swf
-#**/AlaxFoodExpansionIcons/AlaxFoodExpansionIcons.swf
+#**/JunkIt/icons.swf
 #**/KIT/Alchemy.swf
 #**/KIT/Armor.swf
 #**/KIT/BoundEquipment-Overhaul.swf
