@@ -2,6 +2,8 @@
 
 ## Version 1.7.0
 
+- Special thanks to [Komegaki](https://next.nexusmods.com/profile/komegaki) for creating and allowing me to use most of the icons added in this update.
+
 - **Icon SWF (`interface/AlaxFoodExpansionIcons/AlaxFoodExpansionIcons.swf`):** Added icon collection.
 
 - **Icon SWF (`interface/JunkIt/icons.swf`):** Added icon collection.
