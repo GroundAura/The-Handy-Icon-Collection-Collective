@@ -195,7 +195,7 @@ Shown here are the icons included in THICC and the file and label paths you need
 
 -, `clothing_backpack`, `clothing_cloak`, `scroll_spider`, `misc_housepart`, `misc_camping`, `weapon_fishingrod`, `misc_chitin`, `misc_horsetack`, `soulgem_tomatoempty`,
 
-`soulgem_tomatopartial`, `soulgem_tomatofull`, `soulgem_ayleidempty`, `soulgem_ayleidpartial`, `soulgem_ayleidfull`, `misc_dwarvenscrap`, `misc_elderscroll`, `magic_sun`, `magic_wind`, `misc_jar`,
+`soulgem_tomatopartial`, `soulgem_tomatofull`, `soulgem_ayleidcrystalempty`, `soulgem_ayleidcrystalpartial`, `soulgem_ayleidcrystalfull`, `misc_dwarvenscrap`, `misc_elderscroll`, `magic_sun`, `magic_wind`, `misc_jar`,
 
 `magic_vampire`, `magic_water`, `magic_earth`, `misc_tool`, `misc_toy`, `misc_instrument`, `misc_beartrap`
 
@@ -513,11 +513,11 @@ Shown here are the icons included in THICC and the file and label paths you need
 
 `default_conjuration`, `default_restoration`, `default_shout`, `default_power`, `default_effect`, `magic_fire`, `magic_frost`, `magic_shock`, `clothing_backpack`, `clothing_cloak`,
 
-`scroll_spider`, `misc_housepart`, `misc_camping`, `weapon_fishingrod`, `misc_chitin`, `misc_horsetack`, `soulgem_tomatoempty`, `soulgem_tomatopartial`, `soulgem_tomatofull`, `soulgem_ayleidempty`,
+`scroll_spider`, `misc_housepart`, `misc_camping`, `weapon_fishingrod`, `misc_chitin`, `misc_horsetack`, `soulgem_tomatoempty`, `soulgem_tomatopartial`, `soulgem_tomatofull`, `soulgem_ayleidcrystalempty`,
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(SkyUI%5Eicons_item_psychosteve.swf)%20pt.3.png)
 
-`soulgem_ayleidpartial`, `soulgem_ayleidfull`, `misc_dwarvenscrap`, `misc_elderscroll`, `magic_sun`, `magic_wind`, `misc_jar`, `magic_vampire`, `magic_water`, `magic_earth`,
+`soulgem_ayleidcrystalpartial`, `soulgem_ayleidcrystalfull`, `misc_dwarvenscrap`, `misc_elderscroll`, `magic_sun`, `magic_wind`, `misc_jar`, `magic_vampire`, `magic_water`, `magic_earth`,
 
 `misc_tool`, `misc_toy`, `misc_instrument`, `misc_beartrap`, `weapon_spear`, `weapon_javelin`, `weapon_pike`, `weapon_halberd`, `weapon_rapier`, `weapon_quarterstaff`,
 
