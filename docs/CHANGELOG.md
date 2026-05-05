@@ -1,5 +1,17 @@
 # The Handy Icon Collection Collective - Changelog
 
+## Version 1.8.0
+
+- This update should fix any issues people were having using [KIT v1](https://www.nexusmods.com/skyrimspecialedition/mods/116713) or [SkyUI v6](https://www.nexusmods.com/skyrimspecialedition/mods/12604).
+
+- **Icon SWF (`interface/KIT/Alchemy.swf`):** Added missing `ingredient_tentacle` icon.
+
+- **Icon SWF (`interface/KIT/Misc.swf`):** Added missing `misc_sack`, `misc_jug`, `misc_sigilstone`, `misc_inkwell`, and `misc_charcoal` icons.
+
+- **Icon SWF (`interface/KIT/Spells.swf`):** Added missing `magic_eldritch` icon.
+
+- **Icon SWF (`interface/SkyUI/icons_item_psychosteve.swf`):** Added missing 26 new icons from the SkyUI v6 community update.
+
 ## Version 1.7.0
 
 - Special thanks to [Komegaki](https://next.nexusmods.com/profile/komegaki) for creating and allowing me to use most of the icons added in this update.

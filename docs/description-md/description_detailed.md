@@ -35,47 +35,51 @@ No plugins.
 
 \[font=Verdana\]\[color=#00ac46\]These mods contain files identical to THICC's. Overwrite order here is irrelevant.\[/color\]\[/font\]
 
-- [Arclight Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92733)
-- [Astral Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92079)
-- [Constellation Magic Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92145)
-- [Cosmic Spells - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92307)
-- [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010) \[color=#00ac46\](and any derivates)\[/color\]
-- [Dear Diary Dark Mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837) \[color=#00ac46\](and any derivates)\[/color\]
-- [Desecration Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92474)
-- [Diseases - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/94076)
-- [Dodo's Influential Custom Key Symbols](https://www.nexusmods.com/skyrimspecialedition/mods/98619)
-- [Elemental Destruction Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92209)
-- [Functional Fearsome Fists](https://www.nexusmods.com/skyrimspecialedition/mods/59460)
-- [Glamoril - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92292)
-- [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876)
-- [I4 - SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/85703)
-- [Inventory Interface Information Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702)
-- [Inventory Interface Information Injector - Alternative Earth Magic Icon](https://www.nexusmods.com/skyrimspecialedition/mods/92170) \[color=#fdc500\](only v1.0)\[/color\]
-- [Lunaris](https://www.nexusmods.com/skyrimspecialedition/mods/80852)
+- [Arclight Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92733) (confirmed up to `1.0`)
+- [Astral Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92079) (confirmed up to `1.0`)
+- [Constellation Magic Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92145) (confirmed up to `1.0`)
+- [Cosmic Spells - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92307) (confirmed up to `1.1`)
+- [Desecration Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92474) (confirmed up to `1.0`)
+- [Diseases - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/94076) (confirmed up to `1.2`)
+- [Dodo's Influential Custom Key Symbols](https://www.nexusmods.com/skyrimspecialedition/mods/98619) (confirmed up to `3.32`)
+- [Elemental Destruction Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92209) (confirmed up to `1`)
+- [Functional Fearsome Fists](https://www.nexusmods.com/skyrimspecialedition/mods/59460) (confirmed up to `2.0.0`)
+- [Glamoril - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92292) (confirmed up to `1.1`)
+- [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876) (confirmed up to `1.1.12`)
+- [I4 - SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/85703) (confirmed up to `1.0.0`)
+- [Inventory Interface Information Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702) (confirmed up to `1.1.0`)
+- [Inventory Interface Information Injector - Alternative Earth Magic Icon](https://www.nexusmods.com/skyrimspecialedition/mods/92170) \[color=#fdc500\](`1` only)\[/color\]
+- [Lunaris](https://www.nexusmods.com/skyrimspecialedition/mods/80852) (confirmed up to `1.3.6`)
 - [Mark as Junk](https://www.nexusmods.com/skyrimspecialedition/mods/105245)
-- [More Craftable Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/44666)
-- [Necrom Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92406)
-- [Racial Abilities - I4 icons](https://www.nexusmods.com/skyrimspecialedition/mods/93219)
-- [Sandwiches of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/98881)
-- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
-- [SkyUI AIO Survival](https://www.nexusmods.com/skyrimspecialedition/mods/17601) \[color=#00ac46\](and any derivates)\[/color\]
-- [SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/37231) \[color=#00ac46\](and any derivates)\[/color\]
-- [Sonic Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92091)
-- [Sorcerer - A Staff and Scroll Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95196)
-- [Standing Stones - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/92780)
-- [Stellaris - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92301)
-- [Storm Calling Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92189)
-- [Tail Armors - I4 Tail Icons](https://www.nexusmods.com/skyrimspecialedition/mods/110374)
-- [The Witcher Signs - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92127)
-- [Wounds - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92614)
+- [More Craftable Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/44666) (confirmed up to `1.4.0`)
+- [Necrom Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92406) (confirmed up to `1.0`)
+- [Racial Abilities - I4 icons](https://www.nexusmods.com/skyrimspecialedition/mods/93219) (confirmed up to `1.4.2`)
+- [Sandwiches of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/98881) (confirmed up to `1.0.3`)
+- [Sonic Magic - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92091) (confirmed upo to `1`)
+- [Sorcerer - A Staff and Scroll Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95196) (confirmed up to `1.0.0`)
+- [Standing Stones - I4 icon](https://www.nexusmods.com/skyrimspecialedition/mods/92780) (confirmed up to `1.2`)
+- [Stellaris - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92301) (confirmed up to `1.1`)
+- [Storm Calling Magic 2 Icon - I4 Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/92189) (confirmed up to `1.0`)
+- [Tail Armors - I4 Tail Icons](https://www.nexusmods.com/skyrimspecialedition/mods/110374) (confirmed up to `1.0`)
+- [The Witcher Signs - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92127) (confirmed up to `1.2`)
+- [Wounds - I4 patch](https://www.nexusmods.com/skyrimspecialedition/mods/92614) (confirmed up to `1.3`)
 
 \[font=Verdana\]\[color=#fdc500\]These mods contain files that conflict with THICC's. Load these mods after THICC.\[/color\]\[/font\]
 
-- [Inventory Interface Information Injector - Alternative Earth Magic Icon](https://www.nexusmods.com/skyrimspecialedition/mods/92170) \[color=#fdc500\](only v1.1)\[/color\]
+- [Inventory Interface Information Injector - Alternative Earth Magic Icon](https://www.nexusmods.com/skyrimspecialedition/mods/92170) \[color=#fdc500\](`1.1+` only)\[/color\]
+- [Junk It](https://www.nexusmods.com/skyrimspecialedition/mods/112282) (optional files)
 
 ## \[font=Verdana\]\[color=#fdc500\]**Partially Compatible:**\[/color\]\[/font\]
 
 \[font=Verdana\]\[color=#fdc500\]These mods contain files that conflict with THICC's. Load THICC after these mods.\[/color\]\[/font\]
+
+- [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010) \[color=#00ac46\](and any derivates)\[/color\]
+- [Dear Diary Dark Mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837) \[color=#00ac46\](and any derivates)\[/color\]
+- [Kome's Inventory Tweaks V1](https://www.nexusmods.com/skyrimspecialedition/mods/116713) (confirmed up to `1.21`)
+- [Kome's Inventory Tweaks V2](https://github.com/Komegaki/Komegaki-Inventory-Tweaks/releases) (confirmed up to `V2_1.10_Beta`)
+- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) (confirmed from `5.2` up to `6.10`)
+- [SkyUI AIO Survival](https://www.nexusmods.com/skyrimspecialedition/mods/17601) \[color=#00ac46\](and any derivates)\[/color\]
+- [SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/37231) \[color=#00ac46\](and any derivates)\[/color\]
 
 - [SkyUI The Adventurer Theme](https://www.nexusmods.com/skyrimspecialedition/mods/35568)
 \[color=#fdc500\]SkyUI TAT's "Inventory Icons" installer option makes changes to `/interface/SkyUI/icons_item_psychosteve.swf` that don't play well with I4 mods, so this option is effectively incompatible. So long as you leave this option unchecked, or overwrite conflicting files with THICC's, SkyUI TAT is compatible.\[/color\]
@@ -119,15 +123,15 @@ Shown here are the icons included in THICC and the file and label paths you need
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(AIT%5EGameIcons%5Eicons.swf)%20pt.1.png)
 
-x, `food_egg`, `food_magicegg`, `food_cookedegg`, `misc_soap`, `misc_scissors`, `misc_barrel`, `misc_cloth`, `misc_basket`, `misc_bucket`,
+-, `food_egg`, `food_magicegg`, `food_cookedegg`, `misc_soap`, `misc_scissors`, `misc_barrel`, `misc_cloth`, `misc_basket`, `misc_bucket`,
 
 `armor_tail`, `misc_tusk`, `misc_claws`, `misc_birdclaw`, `misc_feather`, `armor_wing`, `misc_jaw`, `misc_fangs`, `misc_bone`, `misc_heart`,
 
-`misc_eyeball`, x, `misc_amphora`, x, `misc_tent`, x, `misc_cookingpot`, `misc_seashell`, `misc_dragonfly`, x,
+`misc_eyeball`, -, `misc_amphora`, -, `misc_tent`, -, `misc_cookingpot`, `misc_seashell`, `misc_dragonfly`, -,
 
-`misc_bee`, x, `misc_butterfly`, x, `misc_flower`, `misc_herbs`, `food_mushroom`, x, `misc_antlers`, `weapon_boomerang`,
+`misc_bee`, -, `misc_butterfly`, -, `misc_flower`, `misc_herbs`, `food_mushroom`, -, `misc_antlers`, `weapon_boomerang`,
 
-`weapon_chakram`, x, `misc_bonepelvis`, x, `misc_compass`, `weapon_saw`, x, `weapon_pistol`, `weapon_saber`, `weapon_hatchet`,
+`weapon_chakram`, -, `misc_bonepelvis`, -, `misc_compass`, `weapon_saw`, -, `weapon_pistol`, `weapon_saber`, `weapon_hatchet`,
 
 `weapon_shuriken`, `weapon_sickle`, `weapon_sai`, `misc_horn`, `misc_card`, `armor_ribbon`, `misc_anvil`, `misc_archerytarget`, `misc_bandage`, `weapon_blunderbuss`,
 
@@ -135,17 +139,17 @@ x, `food_egg`, `food_magicegg`, `food_cookedegg`, `misc_soap`, `misc_scissors`, 
 
 `armor_horns`, `misc_candle`, `misc_cauldron`, `misc_comb`, `armor_wings`, `armor_crown`, `misc_rock`, `misc_cowskull`, `misc_birdskull`, `misc_balancescales`,
 
-`misc_hourglass`, `armor_hat`, x, `armor_hoof`, `misc_cutlery`, `misc_chest`, `misc_mirror`, `misc_gamepiece`, `armor_pointyhat`, x,
+`misc_hourglass`, `armor_hat`, -, `armor_hoof`, `misc_cutlery`, `misc_chest`, `misc_mirror`, `misc_gamepiece`, `armor_pointyhat`, -,
 
 `misc_quillinkwell`, `misc_quill`, `misc_inkwell`, `misc_scalpel`, `food_apple`, `misc_skeletonkey`, `misc_spyglass`, `misc_teapot`, `weapon_kunai`, `weapon_bomb`,
 
-`magic_poison`, `armor_halo`, `misc_fossil`, x, x, x, x, x, x, x
+`magic_poison`, `armor_halo`, `misc_fossil`, -, -, -, -, -, -, -
 
 ### \[font=Verdana\]**AIT/MoreIcons/icons.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(AIT%5EMoreIcons%5Eicons.swf).png)
 
-x, `misc_lantern`, `misc_drop`, `clothing_crown`, `tool_hammer`, `tool_shovel`, `misc_tent`, `misc_flask`, `weapon_bomb`, `tool_gardening`,
+-, `misc_lantern`, `misc_drop`, `clothing_crown`, `tool_hammer`, `tool_shovel`, `misc_tent`, `misc_flask`, `weapon_bomb`, `tool_gardening`,
 
 `misc_sapling`, `clothing_lingerie`, `misc_brush`, `food_meat`, `misc_drug`, `misc_tablewear`, `misc_pottery`, `misc_backpack`, `misc_palette`, `food_cheese`,
 
@@ -159,17 +163,17 @@ x, `misc_lantern`, `misc_drop`, `clothing_crown`, `tool_hammer`, `tool_shovel`, 
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(AlaxFoodExpansionIcons%5EAlaxFoodExpansionIcons.swf).png)
 
-x, `food_apple_1`, `food_bread_1`, `food_bread_2`, `food_bread_3`, `food_fish_1`, `food_mushroom_1`, `food_nut_1`, `food_onion_1`, `food_strawberry_1`,
+-, `food_apple_1`, `food_bread_1`, `food_bread_2`, `food_bread_3`, `food_fish_1`, `food_mushroom_1`, `food_nut_1`, `food_onion_1`, `food_strawberry_1`,
 
 `food_pear_1`, `food_pie_1`, `food_pie_2`, `food_potato_1`, `food_pumpkin_1`, `food_bellpepper_1`, `food_carrot_1`, `food_gourd_1`, `food_grape_1`, `food_pickle_1`,
 
-`food_chickenleg_1`, `food_turnip_1`, `food_cheese_1`, `food_cheese_2`, `food_meat_1`, `food_meat_2`, `food_sausage_1`, x, x, x
+`food_chickenleg_1`, `food_turnip_1`, `food_cheese_1`, `food_cheese_2`, `food_meat_1`, `food_meat_2`, `food_sausage_1`, -, -, -
 
 ### \[font=Verdana\]**Dodo/powers.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(Dodo%5Epowers.swf).png)
 
-x, `power_campfire`, `power_createitem`, `power_harvestwood`, `power_instincts`, `power_spellsiphon`, `power_untangle`, `power_reverse`, `power_refocus`, `power_reshape`,
+-, `power_campfire`, `power_createitem`, `power_harvestwood`, `power_instincts`, `power_spellsiphon`, `power_untangle`, `power_reverse`, `power_refocus`, `power_reshape`,
 
 `power_realign`, `power_entangle`, `power_continuance`, `power_fillbottle`, `power_continuancealt`, `power_commandfollowers`, `power_prayer`, `voice_bind`, `food_waterskin`, `power_prayeralt`,
 
@@ -179,7 +183,7 @@ x, `power_campfire`, `power_createitem`, `power_harvestwood`, `power_instincts`,
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(Dodo%5Eskills.swf).png)
 
-x, `skill_alteration`, `skill_alterationalt`, `skill_conjuration`, `skill_conjurationalt`, `skill_destruction`, `skill_destructionalt`, `skill_enchanting`, `skill_enchantingalt`, `skill_illusion`,
+-, `skill_alteration`, `skill_alterationalt`, `skill_conjuration`, `skill_conjurationalt`, `skill_destruction`, `skill_destructionalt`, `skill_enchanting`, `skill_enchantingalt`, `skill_illusion`,
 
 `skill_illusionalt`, `skill_restoration`, `skill_restorationalt`, `skill_archery`, `skill_blocking`, `skill_heavyarmor`, `skill_onehanded`, `skill_twohanded`, `skill_smithing`, `skill_alchemy`,
 
@@ -189,7 +193,7 @@ x, `skill_alteration`, `skill_alterationalt`, `skill_conjuration`, `skill_conjur
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(I4IconAddon%5Eicons.swf).png)
 
-x, `clothing_backpack`, `clothing_cloak`, `scroll_spider`, `misc_housepart`, `misc_camping`, `weapon_fishingrod`, `misc_chitin`, `misc_horsetack`, `soulgem_tomatoempty`,
+-, `clothing_backpack`, `clothing_cloak`, `scroll_spider`, `misc_housepart`, `misc_camping`, `weapon_fishingrod`, `misc_chitin`, `misc_horsetack`, `soulgem_tomatoempty`,
 
 `soulgem_tomatopartial`, `soulgem_tomatofull`, `soulgem_ayleidempty`, `soulgem_ayleidpartial`, `soulgem_ayleidfull`, `misc_dwarvenscrap`, `misc_elderscroll`, `magic_sun`, `magic_wind`, `misc_jar`,
 
@@ -253,7 +257,7 @@ x, `clothing_backpack`, `clothing_cloak`, `scroll_spider`, `misc_housepart`, `mi
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(IAmNotSimon%5ERacialIcons.swf).png)
 
-x, `race_altmer`, `race_argonian`, `race_bosmer`, `race_breton`, `race_dunmer`, `race_imperial`, `race_khajiit`, `race_nord`, `race_orsimer`,
+-, `race_altmer`, `race_argonian`, `race_bosmer`, `race_breton`, `race_dunmer`, `race_imperial`, `race_khajiit`, `race_nord`, `race_orsimer`,
 
 `race_redguard`, `race_dwemer`, `race_falmer`
 
@@ -315,49 +319,49 @@ x, `race_altmer`, `race_argonian`, `race_bosmer`, `race_breton`, `race_dunmer`, 
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EAlchemy.swf).png)
 
-x, `ingredient_plant`, `ingredient_flower`, `ingredient_dragonfly`, `ingredient_butterflywing`, `ingredient_sharpteeth`, `ingredient_egg`, `ingredient_feather`, `ingredient_taproot`, `ingredient_heart`,
+-, `ingredient_plant`, `ingredient_flower`, `ingredient_dragonfly`, `ingredient_butterflywing`, `ingredient_sharpteeth`, `ingredient_egg`, `ingredient_feather`, `ingredient_taproot`, `ingredient_heart`,
 
 `ingredient`, `ingredient_berry`, `ingredient_tusk`, `ingredient_crabclaw`, `ingredient_bones`, `ingredient_eyeball`, `ingredient_venomsac`, `ingredient_honeycomb`, `ingredient_fatblob`, `ingredient_crystal`,
 
-`ingredient_poison`, `ingredient_antler`, `ingredient_bug`, `ingredient_beak`, x, x, x, x, x, x
+`ingredient_poison`, `ingredient_antler`, `ingredient_bug`, `ingredient_beak`, `ingredient_tentacle`, -, -, -, -, -
 
 ### \[font=Verdana\]**KIT/Armor.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EArmor.swf).png)
 
-x, `armor_head`, `lightarmor_head`, `accessory_ring`, `accessory_amulet`, `clothing_robes`, `lightarmor_body`, x, `clothing_feet`, `clothing_pouch`,
+-, `armor_head`, `lightarmor_head`, `accessory_ring`, `accessory_amulet`, `clothing_robes`, `lightarmor_body`, -, `clothing_feet`, `clothing_pouch`,
 
-`accessory_circlet`, `clothing_mask`, `armor_shield`, `accessory_backpack`, x, x, x, x, x, x
+`accessory_circlet`, `clothing_mask`, `armor_shield`, `accessory_backpack`, -, -, -, -, -, -
 
 ### \[font=Verdana\]**KIT/BoundEquipment-Overhaul.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EBoundEquipment-Overhaul.swf).png)
 
-x, `bound_battleaxe_2h`, `bound_bow_2h`, `bound_dagger_1h`, `bound_greatsword_2h`, `bound_mace_1h`, `bound_shield_heavy`, `bound_sword_1h`, `bound_waraxe_1h`, `bound_warhammer_2h`,
+-, `bound_battleaxe_2h`, `bound_bow_2h`, `bound_dagger_1h`, `bound_greatsword_2h`, `bound_mace_1h`, `bound_shield_heavy`, `bound_sword_1h`, `bound_waraxe_1h`, `bound_warhammer_2h`,
 
-`bound_shield_light`, `bound_claw_1h`, `bound_halberd_2h`, `bound_katana_1h`, `bound_pike_2h`, `bound_quarterstaff_2h`, `bound_rapier_1h`, `bound_whip_1h`, x, x
+`bound_shield_light`, `bound_claw_1h`, `bound_halberd_2h`, `bound_katana_1h`, `bound_pike_2h`, `bound_quarterstaff_2h`, `bound_rapier_1h`, `bound_whip_1h`, -, -
 
 ### \[font=Verdana\]**KIT/BoundEquipment-SkyUI.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EBoundEquipment-SkyUI.swf).png)
 
-x, `bound_battleaxe_2h`, `bound_bow_2h`, `bound_dagger_1h`, `bound_greatsword_2h`, `bound_mace_1h`, `bound_shield_heavy`, `bound_sword_1h`, `bound_waraxe_1h`, `bound_warhammer_2h`,
+-, `bound_battleaxe_2h`, `bound_bow_2h`, `bound_dagger_1h`, `bound_greatsword_2h`, `bound_mace_1h`, `bound_shield_heavy`, `bound_sword_1h`, `bound_waraxe_1h`, `bound_warhammer_2h`,
 
-`bound_shield_light`, `bound_claw_1h`, `bound_halberd_2h`, `bound_katana_1h`, `bound_pike_2h`, `bound_quarterstaff_2h`, `bound_rapier_1h`, `bound_whip_1h`, x, x
+`bound_shield_light`, `bound_claw_1h`, `bound_halberd_2h`, `bound_katana_1h`, `bound_pike_2h`, `bound_quarterstaff_2h`, `bound_rapier_1h`, `bound_whip_1h`, -, -
 
 ### \[font=Verdana\]**KIT/Food.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EFood.swf).png)
 
-x, `food_bread`, `food_fish`, `food_rawmeat`, `food_cookedmeat`, `food_stew`, `food_sweetroll`, `food_apple`, `food_mushroom`, `food_leek`,
+-, `food_bread`, `food_fish`, `food_rawmeat`, `food_cookedmeat`, `food_stew`, `food_sweetroll`, `food_apple`, `food_mushroom`, `food_leek`,
 
-`food_cheese`, `food_beer`, `food_wine`, `food_flagon`, `food_pie`, `food_skooma`, `food_sujamma`, `food_sleepingsap`, `food_ingrsack`, x
+`food_cheese`, `food_beer`, `food_wine`, `food_flagon`, `food_pie`, `food_skooma`, `food_sujamma`, `food_sleepingsap`, `food_ingrsack`, -
 
 ### \[font=Verdana\]**KIT/Misc.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EMisc.swf)%20pt.1.png)
 
-x, `book_oghma`, `book_dreamstride`, `misc_bowl`, `book_note`, `book_skillbook`, `tool_shovel`, `tool_broom`, `book_blackbook`, `misc_dragonbones`,
+-, `book_oghma`, `book_dreamstride`, `misc_bowl`, `book_note`, `book_skillbook`, `tool_shovel`, `tool_broom`, `book_blackbook`, `misc_dragonbones`,
 
 `misc_dragonscales`, `misc_dragonstone`, `misc_firewood`, `misc_buildingmaterial`, `misc_cookingpot`, `misc_plate`, `book_bounty`, `misc_default`, `misc_welkyndstone`, `soulgem_azura`,
 
@@ -371,7 +375,9 @@ x, `book_oghma`, `book_dreamstride`, `misc_bowl`, `book_note`, `book_skillbook`,
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EMisc.swf)%20pt.2.png)
 
-`book_notedaedric`, `book_songbook`, `misc_clutter`, `misc_lantern`, `misc_torch`, `soulgem_varla`
+`book_notedaedric`, `book_songbook`, `misc_clutter`, `misc_lantern`, `misc_torch`, `soulgem_varla`, `misc_sack`, `misc_jug`, `misc_sigilstone`, -,
+
+`misc_inkwell`, `misc_charcoal`, -, -, -, -, -, -, -, -
 
 ### \[font=Verdana\]**KIT/Potions-Full.swf**\[/font\]
 
@@ -383,7 +389,7 @@ x, `book_oghma`, `book_dreamstride`, `misc_bowl`, `book_note`, `book_skillbook`,
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EPowers.swf).png)
 
-x, `magic_nightingale`, `magic_darkbrotherhood`, `magic_karstaag`, `magic_college`, `magic_configure`, `magic_racepower`, `magic_daedrichelmet`, `magic_enhanceweapon`, `magic_teleport`,
+-, `magic_nightingale`, `magic_darkbrotherhood`, `magic_karstaag`, `magic_college`, `magic_configure`, `magic_racepower`, `magic_daedrichelmet`, `magic_enhanceweapon`, `magic_teleport`,
 
 `magic_command`, `magic_vampirefangs`, `magic_slowtime`, `special_basicattack`, `power_vampirelord`, `power_transform`, `power_doomstone`, `magic_dodohorse`, `magic_healinghands`, `magic_enhancecasting`
 
@@ -391,21 +397,21 @@ x, `magic_nightingale`, `magic_darkbrotherhood`, `magic_karstaag`, `magic_colleg
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5ESpells.swf).png)
 
-x, `default_alteration`, `default_conjuration`, `default_destruction`, `magic_fire`, `magic_frost`, `magic_shock`, `default_illusion`, `default_restoration`, `magic_resistance`,
+-, `default_alteration`, `default_conjuration`, `default_destruction`, `magic_fire`, `magic_frost`, `magic_shock`, `default_illusion`, `default_restoration`, `magic_resistance`,
 
 `magic_debuff`, `magic_cloak`, `rune_fire`, `rune_frost`, `rune_ash`, `rune_illusion`, `rune_paralysis`, `rune_poison`, `rune_shock`, `rune_sun`,
 
 `magic_etheral`, `magic_poison`, `magic_sun`, `magic_brokenshield`, `magic_brokensword`, `magic_paralyze_alte`, `magic_weight`, `magic_sight`, `magic_sacrifice`, `magic_paralyze_illu`,
 
-`magic_cloak_alte`, `magic_cloak_rest`, `magic_cloak_fire`, `magic_cloak_frost`, `magic_cloak_shock`, `magic_paralyze`, `magic_blood`, `magic_special`, `magic_wind`, x
+`magic_cloak_alte`, `magic_cloak_rest`, `magic_cloak_fire`, `magic_cloak_frost`, `magic_cloak_shock`, `magic_paralyze`, `magic_blood`, `magic_special`, `magic_wind`, `magic_eldritch`
 
 ### \[font=Verdana\]**KIT/Staves.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(KIT%5EStaves.swf).png)
 
-x, `staff_alteration`, `staff_conjuration`, `staff_destruction`, `staff_illusion`, `staff_restoration`, `Forsworn`, x, x, x
+-, `staff_alteration`, `staff_conjuration`, `staff_destruction`, `staff_illusion`, `staff_restoration`, `Forsworn`, -, -, -
 
-`Silver`, x, x, x, x, x, x, x, x, x
+`Silver`, -, -, -, -, -, -, -, -, -
 
 ### \[font=Verdana\]**KIT/Weapons.swf**\[/font\]
 
@@ -417,9 +423,9 @@ x, `staff_alteration`, `staff_conjuration`, `staff_destruction`, `staff_illusion
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(Magus%5EGourmet%5Eicons.swf).png)
 
-x, `gourmet_bread`, `gourmet_cheese`, `gourmet_drugs`, `gourmet_fish`, `gourmet_meat`, `gourmet_shellfish`, `gourmet_soup`, `gourmet_stew`, `gourmet_sweet`,
+-, `gourmet_bread`, `gourmet_cheese`, `gourmet_drugs`, `gourmet_fish`, `gourmet_meat`, `gourmet_shellfish`, `gourmet_soup`, `gourmet_stew`, `gourmet_sweet`,
 
-`gourmet_vegetable`, `gourmet_foodpoison`, `gourmet_pie`, x, x, x, x, x, x, x
+`gourmet_vegetable`, `gourmet_foodpoison`, `gourmet_pie`, -, -, -, -, -, -, -
 
 ### \[font=Verdana\]**Magus/Sorcerer/icons.swf**\[/font\]
 
@@ -449,7 +455,7 @@ x, `gourmet_bread`, `gourmet_cheese`, `gourmet_drugs`, `gourmet_fish`, `gourmet_
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(Muetzl%5Eicons.swf)%20pt.1.png)
 
-x, `custom_food_potato`, `custom_banana`, `someonestolemysweetrole`, `custom_food_leek`, `custom_food_tomato`, `custom_treesap`, `custom_pear`, `custom_gourd_pumpkin`, `custom_armor_chefs-hat`,
+-, `custom_food_potato`, `custom_banana`, `someonestolemysweetrole`, `custom_food_leek`, `custom_food_tomato`, `custom_treesap`, `custom_pear`, `custom_gourd_pumpkin`, `custom_armor_chefs-hat`,
 
 `custom_armor_jester-hat`, `custom_armor_hood`, `custom_armor_gloves`, `custom_armor_apron`, `custom_envelope`, `custom_book_volume`, `custom_wine`, `custom_food_candy-treat`, `custom_book_skill`, `custom_ingredient_thistle`,
 
@@ -457,7 +463,7 @@ x, `custom_food_potato`, `custom_banana`, `someonestolemysweetrole`, `custom_foo
 
 `custom_ingredient_lichen`, `custom_ingredient_pearl`, `custom_ingredient_beehive-husk`, `custom_food_honey`, `custom_ingredient_moonsugar`, `custom_animal_hawk`, `custom_ingredient_dwemer-oil`, `custom_misc_bust`, `misc_custom_statue`, `custom_misc_sapling`,
 
-`custom_misc_warhorn`, `custom_misc_pot`, `custom_misc_urn`, `custom_misc_cup`, `custom_misc_tankard`, `custom_misc_ladle`, `custom_misc_charcoal-stick`, x, `custom_misc_spigot`, `custom_misc_drinkinghorn`,
+`custom_misc_warhorn`, `custom_misc_pot`, `custom_misc_urn`, `custom_misc_cup`, `custom_misc_tankard`, `custom_misc_ladle`, `custom_misc_charcoal-stick`, -, `custom_misc_spigot`, `custom_misc_drinkinghorn`,
 
 `custom_misc_goblet`, `custom_misc_pitcher`, `custom_misc_bottleship`, `custom_misc_oar`, `custom_misc_bellows`, `custom_misc_tongs`, `custom_misc_broom`, `custom_misc_clothesiron`, `custom_misc_flag`, `custom_misc_jug`,
 
@@ -465,11 +471,11 @@ x, `custom_food_potato`, `custom_banana`, `someonestolemysweetrole`, `custom_foo
 
 `custom_armor_torc`, `custom_misc_charcoal-chunk`, `custom_misc_flute`, `custom_misc_drum`, `custom_misc_stonetablet`, `custom_misc_dwemercore`, `custom_misc_dwemercube`, `custom_misc_plate`, `custom_misc_pan`, `custom_misc_pitchfork`,
 
-`custom_misc_chalice`, `custom_misc_collar`, `custom_misc_paragon`, `custom_misc_shard`, `custom_food_dumpling`, x, `custom_food_crostata`, `custom_food_butter`, `custom_food_yam`, `custom_armor_coat`,
+`custom_misc_chalice`, `custom_misc_collar`, `custom_misc_paragon`, `custom_misc_shard`, `custom_food_dumpling`, -, `custom_food_crostata`, `custom_food_butter`, `custom_food_yam`, `custom_armor_coat`,
 
-`custom_food_jelly`, x, `custom_animal_horse`, `custom_book_schematics`, `custom_weapon_rod`, `custom_misc_dye`, `custom_misc_sigilstone`, `custom_tool_alembic`, `custom_misc_vase`, `custom_food_cookie`,
+`custom_food_jelly`, -, `custom_animal_horse`, `custom_book_schematics`, `custom_weapon_rod`, `custom_misc_dye`, `custom_misc_sigilstone`, `custom_tool_alembic`, `custom_misc_vase`, `custom_food_cookie`,
 
-`custom_tool_sextant`, `custom_misc_deck-of-cards`, `custom_misc_coin`, `custom_misc_shrine`, x, `custom_misc_clam`, `custom_misc_coral`, `custom_misc_shell`, `custom_misc_pansyshell_sanddollar`, x,
+`custom_tool_sextant`, `custom_misc_deck-of-cards`, `custom_misc_coin`, `custom_misc_shrine`, -, `custom_misc_clam`, `custom_misc_coral`, `custom_misc_shell`, `custom_misc_pansyshell_sanddollar`, -,
 
 `custom_misc_sphere`, `custom_instrument_hurdy-gurdy`, `custom_armor_bracelet`, `custom_armor_dress`, `custom_book_song`, `custom_misc_jaw`, `custom_misc_seeds`, `custom_instrument_ocarina`, `custom_photography`, `custom_zelda_triforce`,
 
@@ -483,15 +489,15 @@ x, `custom_food_potato`, `custom_banana`, `someonestolemysweetrole`, `custom_foo
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(SkyUI%5Eicons_item_psychosteve.swf)%20pt.1.png)
 
-x, `default_weapon`, `weapon_sword`, `weapon_greatsword`, `weapon_daedra`, `weapon_dagger`, `weapon_waraxe`, `weapon_battleaxe`, `weapon_mace`, `weapon_hammer`,
+-, `default_weapon`, `weapon_sword`, `weapon_greatsword`, `weapon_daedra`, `weapon_dagger`, `weapon_waraxe`, `weapon_battleaxe`, `weapon_mace`, `weapon_hammer`,
 
 `weapon_staff`, `weapon_bow`, `weapon_arrow`, `weapon_pickaxe`, `weapon_woodaxe`, `weapon_crossbow`, `weapon_bolt`, `default_armor`, `lightarmor_body`, `lightarmor_head`,
 
-`lightarmor_hands`, x, `lightarmor_feet`, x, `lightarmor_shield`, x, `armor_body`, `armor_head`, `armor_hands`, x,
+`lightarmor_hands`, -, `lightarmor_feet`, -, `lightarmor_shield`, -, `armor_body`, `armor_head`, `armor_hands`, -,
 
-`armor_feet`, x, `armor_shield`, `armor_mask`, `armor_bracer`, `armor_daedra`, `clothing_body`, `clothing_robe`, `clothing_head`, `clothing_pants`,
+`armor_feet`, -, `armor_shield`, `armor_mask`, `armor_bracer`, `armor_daedra`, `clothing_body`, `clothing_robe`, `clothing_head`, `clothing_pants`,
 
-`clothing_hands`, x, `clothing_feet`, x, `clothing_shoes`, `clothing_shield`, x, `armor_amulet`, `armor_ring`, `armor_circlet`,
+`clothing_hands`, -, `clothing_feet`, -, `clothing_shoes`, `clothing_shield`, -, `armor_amulet`, `armor_ring`, `armor_circlet`,
 
 `default_scroll`, `default_book`, `default_book_read`, `book_tome`, `book_tome_read`, `book_journal`, `book_note`, `book_map`, `default_food`, `food_wine`,
 
@@ -499,21 +505,30 @@ x, `default_weapon`, `weapon_sword`, `weapon_greatsword`, `weapon_daedra`, `weap
 
 `food_beer`, `default_ingredient`, `default_key`, `key_house`, `default_potion`, `potion_health`, `potion_stam`, `potion_magic`, `potion_poison`, `potion_frost`,
 
-`potion_fire`, `potion_shock`, `default_misc`, `misc_artifact`, `misc_clutter`, `misc_lockpick`, x, `soulgem_empty`, `soulgem_partial`, `soulgem_full`,
+`potion_fire`, `potion_shock`, `default_misc`, `misc_artifact`, `misc_clutter`, `misc_lockpick`, -, `soulgem_empty`, `soulgem_partial`, `soulgem_full`,
 
 `soulgem_grandempty`, `soulgem_grandpartial`, `soulgem_grandfull`, `soulgem_azura`, `misc_gem`, `misc_ore`, `misc_ingot`, `misc_hide`, `misc_strips`, `misc_leather`,
 
 `misc_wood`, `misc_remains`, `misc_trollskull`, `misc_torch`, `misc_goldsack`, `misc_gold`, `misc_dragonclaw`, `default_alteration`, `default_illusion`, `default_destruction`,
 
-`default_conjuration`, `default_restoration`, `default_shout`, `default_power`, `default_effect`, `magic_fire`, `magic_frost`, `magic_shock`, `weapon_spear`, `weapon_javelin`,
+`default_conjuration`, `default_restoration`, `default_shout`, `default_power`, `default_effect`, `magic_fire`, `magic_frost`, `magic_shock`, `clothing_backpack`, `clothing_cloak`,
 
-`weapon_pike`, `weapon_halberd`, `weapon_rapier`, `weapon_quarterstaff`, `weapon_claw`, `weapon_whip`, `weapon_katana`, `weapon_scythe`, `weapon_gun`
+`scroll_spider`, `misc_housepart`, `misc_camping`, `weapon_fishingrod`, `misc_chitin`, `misc_horsetack`, `soulgem_tomatoempty`, `soulgem_tomatopartial`, `soulgem_tomatofull`, `soulgem_ayleidempty`,
+
+![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(SkyUI%5Eicons_item_psychosteve.swf)%20pt.3.png)
+
+`soulgem_ayleidpartial`, `soulgem_ayleidfull`, `misc_dwarvenscrap`, `misc_elderscroll`, `magic_sun`, `magic_wind`, `misc_jar`, `magic_vampire`, `magic_water`, `magic_earth`,
+
+`misc_tool`, `misc_toy`, `misc_instrument`, `misc_beartrap`, `weapon_spear`, `weapon_javelin`, `weapon_pike`, `weapon_halberd`, `weapon_rapier`, `weapon_quarterstaff`,
+
+`weapon_claw`, `weapon_whip`, `weapon_katana`, `weapon_scythe`, `weapon_gun`
+
 
 ### \[font=Verdana\]**SkyUI_Weapons_Pack/icons.swf**\[/font\]
 
 ![icon preview](https://raw.githubusercontent.com/GroundAura/The-Handy-Icon-Collection-Collective/main/docs/images/screenshots/THICC/(SkyUI_Weapons_Pack%5Eicons.swf).png)
 
-x, `weapon_spear`, `weapon_javelin`, `weapon_pike`, `weapon_halberd`, `weapon_rapier`, `weapon_quarterstaff`, `weapon_claw`, `weapon_whip`, `weapon_katana`,
+-, `weapon_spear`, `weapon_javelin`, `weapon_pike`, `weapon_halberd`, `weapon_rapier`, `weapon_quarterstaff`, `weapon_claw`, `weapon_whip`, `weapon_katana`,
 
 `weapon_scythe`, `weapon_gun`
 

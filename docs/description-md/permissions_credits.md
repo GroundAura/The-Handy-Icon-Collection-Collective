@@ -21,6 +21,7 @@ Explicit credits, licenses, and usage instructions can be found in text files na
 - [I4 - SkyUI Weapons Pack](https://www.nexusmods.com/skyrimspecialedition/mods/85703) by [Parapets](https://www.nexusmods.com/users/39501725) and [ashingda](https://www.nexusmods.com/users/10236085).
 - [Inventory Interface Information Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702) by [Parapets](https://www.nexusmods.com/users/39501725) and [Jelidity](https://www.nexusmods.com/users/4569617).
 - [Inventory Interface Information Injector - Alternative Earth Magic Icon - I4](https://www.nexusmods.com/skyrimspecialedition/mods/92170) by [IAmNotSimon](https://www.nexusmods.com/users/160117868).
+- [Kome's Inventory Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/116713) by [Komegaki](https://next.nexusmods.com/profile/komegaki).
 - [Lunaris](https://www.nexusmods.com/skyrimspecialedition/mods/80852) by [Darenii](https://www.nexusmods.com/users/5073294) and [Jelidity](https://www.nexusmods.com/users/4569617).
 - [Mark as Junk](https://www.nexusmods.com/skyrimspecialedition/mods/105245) by [lilmetal](https://www.nexusmods.com/users/945068).
 - [More Craftable Equipment - Unenchanted Clothing and Specialty Gear](https://www.nexusmods.com/skyrimspecialedition/mods/44666) by [Parapets](https://www.nexusmods.com/users/39501725) and [Jelidity](https://www.nexusmods.com/users/4569617).
@@ -50,6 +51,7 @@ Explicit credits, licenses, and usage instructions can be found in text files na
 - [7-Zip](https://www.7-zip.org/)
 - [GIMP](https://www.gimp.org)
 - [GitHub Desktop](https://desktop.github.com)
+- [GitKraken Desktop](https://www.gitkraken.com)
 - [Inkscape](https://inkscape.org)
 - [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler/releases)
 - [md2nexus](https://www.nexusmods.com/skyrimspecialedition/mods/100441)
