@@ -10,7 +10,7 @@
 
 - **Icon SWF (`interface/KIT/Spells.swf`):** Added missing `magic_eldritch` icon.
 
-- **Icon SWF (`interface/SkyUI/icons_item_psychosteve.swf`):** Added missing 26 new icons from the SkyUI v6 community update.
+- **Icon SWF (`interface/SkyUI/icons_item_psychosteve.swf`):** Added missing 26 new icons from the SkyUI v6 community update. This is a manually merged SWF that contains both SkyUI v6 icons and SkyUI Weapons Pack icons; make sure this file wins conflicts.
 
 ## Version 1.7.0
 
